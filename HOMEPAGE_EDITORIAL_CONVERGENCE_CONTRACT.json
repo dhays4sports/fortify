@@ -1,0 +1,42 @@
+{
+  "sprint": "408-UI-4.2",
+  "surface": "/",
+  "identity": {
+    "h1": "Insurance That Fits.",
+    "review_philosophy": "Start with a Coverage Review. Not a quote.",
+    "primary_routing_model": "situation-first"
+  },
+  "composition": {
+    "hero": [
+      "editorial proposition",
+      "contextual home photography",
+      "situation-first working panel"
+    ],
+    "relationship_band": true,
+    "full_situation_routes": 6,
+    "secondary_coverage_routes": 4,
+    "lower_page_posture": "editorial / reduced dashboard chrome"
+  },
+  "protected": [
+    "CoverageFit homepage launcher",
+    "all pre-existing homepage destinations",
+    "all pre-existing tracked anchors",
+    "CoverageFit score/story destination",
+    "Professional Program destinations",
+    "Local attribution destinations",
+    "contact destinations",
+    "campaign context",
+    "all non-homepage public HTML",
+    "Life/Life Ops",
+    "_worker.js",
+    "_routes.json",
+    "408-INFRA-1.1"
+  ],
+  "claims_guardrails": [
+    "no guaranteed savings",
+    "no guaranteed discount",
+    "no unsupported carrier-shopping claim",
+    "no unverified tenure or turnaround claim"
+  ],
+  "next_sprint": "408-UI-4.3 — Home + Bundle Editorial Convergence"
+}

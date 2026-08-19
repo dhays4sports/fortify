@@ -1,0 +1,27 @@
+{
+  "sprint": "408-UI-4.6",
+  "input": "408-UI-4.5 Professional Programs Campaign Convergence",
+  "protected_sha256": {
+    "local/data/catalog.json": "4d7b0bb9a1e376b57270f833ec692b50af59cb8084f8c6fde6896ceda516d652",
+    "local/data/catalog.schema.json": "a56f9a6c37878b139c52a9948bbe012d7186a0664c116039cb2bd60e8583b72d",
+    "shared/local-data-model.js": "ff06f29c256d85adc4d8813187719a640c918a3cb7381b43c24d4469149fa17e",
+    "shared/local-directory.js": "aeee96922378d235b177d229d1949220f17518927c3b4383c1964bdb12bfbb8c",
+    "shared/local-merchant.js": "806940982132e48d21284a5983a5c02fc535efb79a9a87cb98d2605795e0c55f",
+    "shared/local-attribution.js": "f9e04b4214e36805c5443ea88bff4f7978878f414295c960d4787d1c653ea7fe",
+    "shared/local-join.js": "69f4a0f5aeb772b4bd98ee6629d527c0510a26d37c1c0c874399127c704dcce0",
+    "_worker.js": "fff94d29593f23a15765e66b6627e0339480e0ca394ad86086b06026392d2690",
+    "_routes.json": "3568f8f7108595e37ae0da752971d749b2d498ef713ac1b4b302c937a73495d6",
+    "CAMPAIGN_ENTRY_REGISTRY.json": "6367c616cceb5afed7f58fe86f131b3ab1506a006c156412e714eb077b0e82b7"
+  },
+  "life_sha256": {
+    "life-ops/index.html": "a2e8a1c9f9fa0535fdcdb99ca76c8770c3ca055401fb109d6671f1e3b083fb6b",
+    "life/index.html": "192da909e603efb3ad3468618051b11fea61bb905d64bfd373b38892d37bebcd",
+    "life/thank-you.html": "b80812417206c0c5a53400812235a9f36c226ba2744ef749b0ca3bde977a8acc"
+  },
+  "infra_sha256": {
+    "_routes.json": "3568f8f7108595e37ae0da752971d749b2d498ef713ac1b4b302c937a73495d6",
+    "SPRINT-408-INFRA-1.1.md": "17562848dfe3a55218e8f9d646d29c430c2f6eec71edcd5b3c91744efeda198c",
+    "INFRA1_1_RELEASE_CERTIFICATION.json": "63c04490216b7454499abc270f29f5088e5f990cf0e7f71383c959a025d77523"
+  },
+  "join_form_sha256": "879f448bbcbca74fefeebe1dcebb58cd3c82cf91eb0faa133f4c4522b209d28c"
+}

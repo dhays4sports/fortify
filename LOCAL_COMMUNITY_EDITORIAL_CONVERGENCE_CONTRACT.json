@@ -1,0 +1,37 @@
+{
+  "sprint": "408-UI-4.6",
+  "name": "Local Community Convergence",
+  "status": "COMPLETE",
+  "target_routes": [
+    "/local/",
+    "/local/{merchant}/",
+    "/local/join/",
+    "/local/join/thank-you.html"
+  ],
+  "composition": [
+    "community-first editorial hero",
+    "context photography",
+    "real category action panel",
+    "catalog-driven merchant cards",
+    "merchant-first perk detail",
+    "editorial merchant join"
+  ],
+  "protected": [
+    "Local catalog/schema",
+    "Local data model/directory/merchant/redemption/attribution/join runtime",
+    "merchant application form",
+    "Local insurance separation",
+    "Workers and routes",
+    "Life/Life Ops",
+    "408-INFRA-1.1"
+  ],
+  "explicit_non_goals": [
+    "no fabricated merchants or offers",
+    "no fabricated categories",
+    "no ratings or reviews",
+    "no distance or geolocation",
+    "no Local production GO claim",
+    "no Life redesign"
+  ],
+  "next": "408-UI-4.7 \u2014 Relationship + Completion Editorial Convergence"
+}

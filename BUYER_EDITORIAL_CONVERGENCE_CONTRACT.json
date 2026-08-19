@@ -1,0 +1,33 @@
+{
+  "sprint": "408-UI-4.4",
+  "contract": "buyer-editorial-convergence-v1",
+  "status": "complete",
+  "route": "/buyer/",
+  "presentation": {
+    "grammar": [
+      "editorial_copy",
+      "buyer_context_photography",
+      "working_buyer_intake",
+      "dylan_relationship_band",
+      "editorial_support_columns",
+      "trust_strip"
+    ],
+    "action_color": "Farmers red",
+    "editorial_accent": "408 warm gold",
+    "organic_headline": "Let’s keep the insurance side moving."
+  },
+  "protected": [
+    "Buyer leadForm markup exact to UI-4.3 input",
+    "closing urgency calculation",
+    "partner/realtor attribution",
+    "Text Dylan and start-online choices",
+    "Buyer Formspree endpoint and consent",
+    "CoverageFit handoff",
+    "campaign-entry registry/runtime",
+    "Workers and _routes.json",
+    "408-INFRA-1.1",
+    "Life and Life Ops"
+  ],
+  "form_sha256": "829acb3a2a1076fee970b4b6150d8516eb5357dd772e3af45ff3685c784562cc",
+  "next": "408-UI-4.5 — Professional Programs Campaign Convergence"
+}

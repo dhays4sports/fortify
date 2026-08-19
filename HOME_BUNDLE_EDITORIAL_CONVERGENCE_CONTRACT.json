@@ -1,0 +1,36 @@
+{
+  "sprint": "408-UI-4.3",
+  "contract": "home-bundle-editorial-convergence-v1",
+  "status": "complete",
+  "routes": [
+    "/home/",
+    "/auto-bundle/"
+  ],
+  "presentation": {
+    "grammar": [
+      "editorial_copy",
+      "context_photography",
+      "working_action_panel",
+      "dylan_relationship_band",
+      "editorial_support_columns",
+      "trust_strip"
+    ],
+    "action_color": "Farmers red",
+    "editorial_accent": "408 warm gold",
+    "home_organic_headline": "Start with a home coverage review.",
+    "bundle_organic_headline": "Let\u2019s look at home and auto together."
+  },
+  "protected": [
+    "Home and Bundle leadForm markup exact to UI-4.2 input",
+    "Home progressive intake and hidden-required fix",
+    "Home deep routes and flyer/QR campaigns",
+    "renter/owner branching",
+    "Formspree endpoints and consent semantics",
+    "post-lead and CoverageFit explicit invitation",
+    "campaign-entry registry/runtime",
+    "Workers and _routes.json",
+    "408-INFRA-1.1",
+    "Life and Life Ops"
+  ],
+  "next": "408-UI-4.4 \u2014 Buyer Editorial Convergence"
+}

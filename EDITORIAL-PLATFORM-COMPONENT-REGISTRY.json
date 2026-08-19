@@ -1,0 +1,36 @@
+{
+  "program": "408-UI-4.x",
+  "sprint": "408-UI-4.1",
+  "life_excluded": true,
+  "tokens": {
+    "editorial_gold_text": "--ui4-gold-700",
+    "editorial_gold_decorative": "--ui4-gold-500",
+    "primary_action": "Farmers red / existing --ui3-red",
+    "navy": "existing UI-3 navy tokens",
+    "paper": "--ui4-paper / --ui4-paper-cool"
+  },
+  "components": [
+    {"name":"Editorial hero","class":"ui4-editorial-hero","purpose":"Three-zone proposition, context photography, working action surface"},
+    {"name":"Action panel","class":"ui4-action-panel","purpose":"Contains existing interactive form/control without changing its data contract"},
+    {"name":"Editorial kicker","class":"ui4-kicker","purpose":"Warm-gold route/program eyebrow"},
+    {"name":"Headline accent","class":"ui4-headline-accent","purpose":"Selective editorial emphasis; not a CTA"},
+    {"name":"Editorial rule","class":"ui4-editorial-rule","purpose":"Short warm-gold visual rule"},
+    {"name":"Benefits","class":"ui4-benefits","purpose":"2–3 compact reassurance cues without dashboard cards"},
+    {"name":"Relationship band","class":"ui4-relationship-band","purpose":"Dylan accountability plus direct Text/Call actions"},
+    {"name":"Editorial columns","class":"ui4-editorial-columns","purpose":"Lower-page explanatory content with whitespace and dividers"},
+    {"name":"Steps","class":"ui4-steps","purpose":"Human readable numbered review process"},
+    {"name":"Context image","class":"ui4-context-image","purpose":"Supporting real-world photography"},
+    {"name":"Trust strip","class":"ui4-trust-strip","purpose":"Flat near-footer reassurance band"}
+  ],
+  "protected_contracts": [
+    "forms and required semantics",
+    "Formspree and Cloudflare Worker endpoints",
+    "Campaign Entry Registry and attribution",
+    "Home progressive intake and deep routes",
+    "Buyer referral and closing context",
+    "Local merchant data/redemption/attribution",
+    "CoverageFit zero-repeat handoff",
+    "408-INFRA-1.1 Pages Function boundary",
+    "Life and Life Ops"
+  ]
+}
