@@ -1,0 +1,39 @@
+{
+  "sprint": "408-UI-4.4",
+  "name": "Buyer Editorial Convergence",
+  "status": "PASS",
+  "deployable": true,
+  "route": "/buyer/",
+  "certification": {
+    "source_behavior": "131/131",
+    "browser_responsive": "111/111",
+    "homepage_ui42_regression": "129/129",
+    "home_bundle_ui43_regression": "174/174",
+    "ui43_campaign_continuity": "10/10",
+    "end_to_end": "59/59",
+    "professional_accessibility": "53/53",
+    "static": "296/296",
+    "infra_boundary": "22/22",
+    "infra_exact_preservation": "4/4",
+    "home_submit": "12/12",
+    "home_routing": "16/16",
+    "home_deep_route_assets": "12/12",
+    "redirect_loop": "10/10",
+    "asset_performance": "99/99",
+    "metadata": "216/216",
+    "runtime_js_syntax": "126/126",
+    "internal_links_assets": "769 checked / 0 broken"
+  },
+  "protected": [
+    "Buyer leadForm exact to UI-4.3 input",
+    "closing urgency",
+    "partner/realtor attribution",
+    "Formspree and consent",
+    "Campaign Entry Registry/runtime",
+    "CoverageFit handoff",
+    "Workers and _routes.json",
+    "408-INFRA-1.1",
+    "Life/Life Ops"
+  ],
+  "next": "408-UI-4.5 — Professional Programs Campaign Convergence"
+}

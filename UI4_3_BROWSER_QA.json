@@ -1,0 +1,879 @@
+{
+  "sprint": "408-UI-4.3",
+  "suite": "home_bundle_editorial_browser",
+  "total": 174,
+  "passed": 174,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "home-phone320 ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "home-phone320 primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 15, 'y': 659.375, 'width': 290, 'height': 50}"
+    },
+    {
+      "name": "home-phone320 call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 33, 'y': 3015.828125, 'width': 254, 'height': 58}"
+    },
+    {
+      "name": "home-phone320 single-column mobile hero",
+      "passed": true,
+      "detail": "290px"
+    },
+    {
+      "name": "home-phone320 single support column",
+      "passed": true,
+      "detail": "292px"
+    },
+    {
+      "name": "home-phone320 menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone320 media substantial",
+      "passed": true,
+      "detail": "{'x': 15, 'y': 865.0625, 'width': 290, 'height': 556.90625}"
+    },
+    {
+      "name": "home-phone390 ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "home-phone390 primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 15, 'y': 658.3125, 'width': 360, 'height': 50}"
+    },
+    {
+      "name": "home-phone390 call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 33, 'y': 3020.109375, 'width': 324, 'height': 58}"
+    },
+    {
+      "name": "home-phone390 single-column mobile hero",
+      "passed": true,
+      "detail": "360px"
+    },
+    {
+      "name": "home-phone390 single support column",
+      "passed": true,
+      "detail": "362px"
+    },
+    {
+      "name": "home-phone390 menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-phone390 media substantial",
+      "passed": true,
+      "detail": "{'x': 15, 'y': 864, 'width': 360, 'height': 691.328125}"
+    },
+    {
+      "name": "home-tablet ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "home-tablet primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 15, 'y': 586.84375, 'width': 234.4375, 'height': 50}"
+    },
+    {
+      "name": "home-tablet call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 393, 'y': 3106.75, 'width': 338, 'height': 58}"
+    },
+    {
+      "name": "home-tablet single-column mobile hero",
+      "passed": true,
+      "detail": "738px"
+    },
+    {
+      "name": "home-tablet single support column",
+      "passed": true,
+      "detail": "740px"
+    },
+    {
+      "name": "home-tablet menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-tablet media substantial",
+      "passed": true,
+      "detail": "{'x': 15, 'y': 713.1875, 'width': 738, 'height': 1417.21875}"
+    },
+    {
+      "name": "home-laptop ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 1024, 'sw': 1024, 'bw': 1024}"
+    },
+    {
+      "name": "home-laptop primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 21, 'y': 786.53125, 'width': 234.4375, 'height': 50}"
+    },
+    {
+      "name": "home-laptop call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 758.734375, 'y': 2057.78125, 'width': 220.265625, 'height': 58}"
+    },
+    {
+      "name": "home-laptop one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-laptop media substantial",
+      "passed": true,
+      "detail": "{'x': 462.890625, 'y': 116.09375, 'width': 540.109375, 'height': 1037.203125}"
+    },
+    {
+      "name": "home-desktop ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "home-desktop primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 101, 'y': 931.578125, 'width': 234.4375, 'height': 50}"
+    },
+    {
+      "name": "home-desktop call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 966.734375, 'y': 1298.265625, 'width': 220.265625, 'height': 58}"
+    },
+    {
+      "name": "home-desktop three-zone desktop",
+      "passed": true,
+      "detail": "412.656px 459.562px 365.781px"
+    },
+    {
+      "name": "home-desktop three support columns",
+      "passed": true,
+      "detail": "373.328px 373.328px 373.344px"
+    },
+    {
+      "name": "home-desktop direct header contact",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home-desktop media substantial",
+      "passed": true,
+      "detail": "{'x': 513.65625, 'y': 129, 'width': 459.5625, 'height': 1121.09375}"
+    },
+    {
+      "name": "bundle-phone320 ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "bundle-phone320 primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 31, 'y': 2672.21875, 'width': 258, 'height': 50}"
+    },
+    {
+      "name": "bundle-phone320 call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 33, 'y': 3105.28125, 'width': 254, 'height': 58}"
+    },
+    {
+      "name": "bundle-phone320 single-column mobile hero",
+      "passed": true,
+      "detail": "292px"
+    },
+    {
+      "name": "bundle-phone320 single support column",
+      "passed": true,
+      "detail": "292px"
+    },
+    {
+      "name": "bundle-phone320 menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone320 media substantial",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 569.1875, 'width': 292, 'height': 1052.328125}"
+    },
+    {
+      "name": "bundle-phone390 ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "bundle-phone390 primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 31, 'y': 2849.859375, 'width': 328, 'height': 50}"
+    },
+    {
+      "name": "bundle-phone390 call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 33, 'y': 3265.203125, 'width': 324, 'height': 58}"
+    },
+    {
+      "name": "bundle-phone390 single-column mobile hero",
+      "passed": true,
+      "detail": "362px"
+    },
+    {
+      "name": "bundle-phone390 single support column",
+      "passed": true,
+      "detail": "362px"
+    },
+    {
+      "name": "bundle-phone390 menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-phone390 media substantial",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 584.3125, 'width': 362, 'height': 1304.59375}"
+    },
+    {
+      "name": "bundle-tablet ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "bundle-tablet primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 35, 'y': 3761.484375, 'width': 698, 'height': 50}"
+    },
+    {
+      "name": "bundle-tablet call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 393, 'y': 4087.484375, 'width': 338, 'height': 58}"
+    },
+    {
+      "name": "bundle-tablet single-column mobile hero",
+      "passed": true,
+      "detail": "740px"
+    },
+    {
+      "name": "bundle-tablet single support column",
+      "passed": true,
+      "detail": "740px"
+    },
+    {
+      "name": "bundle-tablet menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-tablet media substantial",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 564.15625, 'width': 740, 'height': 2666.859375}"
+    },
+    {
+      "name": "bundle-laptop ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 1024, 'sw': 1024, 'bw': 1024}"
+    },
+    {
+      "name": "bundle-laptop primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 45.5625, 'y': 2576.546875, 'width': 932.875, 'height': 56}"
+    },
+    {
+      "name": "bundle-laptop call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 758.734375, 'y': 2834.28125, 'width': 220.265625, 'height': 58}"
+    },
+    {
+      "name": "bundle-laptop one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-laptop media substantial",
+      "passed": true,
+      "detail": "{'x': 462.796875, 'y': 115.09375, 'width': 541.203125, 'height': 1950.421875}"
+    },
+    {
+      "name": "bundle-desktop ui4 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop working form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop support columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "bundle-desktop primary action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop primary action >= 44px",
+      "passed": true,
+      "detail": "{'x': 1002.625, 'y': 1244.390625, 'width': 308.375, 'height': 56}"
+    },
+    {
+      "name": "bundle-desktop call action visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop call action >= 44px",
+      "passed": true,
+      "detail": "{'x': 966.734375, 'y': 1834.015625, 'width': 220.265625, 'height': 58}"
+    },
+    {
+      "name": "bundle-desktop three-zone desktop",
+      "passed": true,
+      "detail": "413.328px 460.297px 366.375px"
+    },
+    {
+      "name": "bundle-desktop three support columns",
+      "passed": true,
+      "detail": "373.328px 373.328px 373.344px"
+    },
+    {
+      "name": "bundle-desktop direct header contact",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle-desktop media substantial",
+      "passed": true,
+      "detail": "{'x': 513.328125, 'y': 128, 'width': 460.296875, 'height': 1658.84375}"
+    }
+  ]
+}

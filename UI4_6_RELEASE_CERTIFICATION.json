@@ -1,0 +1,19 @@
+{
+  "sprint": "408-UI-4.6",
+  "name": "Local Community Convergence",
+  "status": "PASS",
+  "deployable": true,
+  "source_qa": "86/86",
+  "browser_qa": "114/114",
+  "local_browser_regression": "210/210",
+  "merchant_join_worker": "20/20",
+  "local_attribution_worker": "29/29",
+  "e2e": "59/59",
+  "static": "296/296",
+  "infra_boundary": "22/22",
+  "infra_preservation": "4/4",
+  "links": "792 checked / 0 broken",
+  "js_syntax": "43/43",
+  "local_operational_status": "LOCAL-1.10 three-merchant pilot remains NO-GO pending real Auto + Home merchants",
+  "next": "408-UI-4.7 \u2014 Relationship + Completion Editorial Convergence"
+}

@@ -1,0 +1,1039 @@
+{
+  "sprint": "408-UI-4.5",
+  "suite": "professional_programs_editorial_source",
+  "total": 206,
+  "passed": 206,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "healthcare body marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare switcher four",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare switcher icons",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare copy zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare media zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare action zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare campaign node [data-campaign-entry-eyebrow]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare campaign node [data-campaign-entry-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare campaign node [data-campaign-entry-lead]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare campaign node [data-campaign-entry-form-kicker]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare campaign node [data-campaign-entry-form-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare campaign node [data-campaign-entry-submit]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare form exact",
+      "passed": true,
+      "detail": "e7bade8300bb86d6f1966c7f9042c88e29d1d3279199e55d87591683b8ee048e != e7bade8300bb86d6f1966c7f9042c88e29d1d3279199e55d87591683b8ee048e"
+    },
+    {
+      "name": "healthcare relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare relationship sms",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare relationship tel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare three support cols",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare three steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare trust four",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare qualifier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare no guaranteed discount",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare no automatically qualifies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare no guaranteed savings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare no we shop top-rated carriers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare no serving our community since 1974",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers body marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers switcher four",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers switcher icons",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers copy zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers media zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers action zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers campaign node [data-campaign-entry-eyebrow]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers campaign node [data-campaign-entry-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers campaign node [data-campaign-entry-lead]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers campaign node [data-campaign-entry-form-kicker]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers campaign node [data-campaign-entry-form-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers campaign node [data-campaign-entry-submit]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers form exact",
+      "passed": true,
+      "detail": "7fcaa7751e9a315d02622aae50d3001824cce831116bb92a85fb0eee48211c67 != 7fcaa7751e9a315d02622aae50d3001824cce831116bb92a85fb0eee48211c67"
+    },
+    {
+      "name": "teachers relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers relationship sms",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers relationship tel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers three support cols",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers three steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers trust four",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers qualifier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers no guaranteed discount",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers no automatically qualifies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers no guaranteed savings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers no we shop top-rated carriers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teachers no serving our community since 1974",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech body marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech switcher four",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech switcher icons",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech copy zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech media zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech action zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech campaign node [data-campaign-entry-eyebrow]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech campaign node [data-campaign-entry-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech campaign node [data-campaign-entry-lead]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech campaign node [data-campaign-entry-form-kicker]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech campaign node [data-campaign-entry-form-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech campaign node [data-campaign-entry-submit]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech form exact",
+      "passed": true,
+      "detail": "2210b97721f7651b63033dae60842f6f0afa76941612eb6fec57fdcc7ec5df71 != 2210b97721f7651b63033dae60842f6f0afa76941612eb6fec57fdcc7ec5df71"
+    },
+    {
+      "name": "tech relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech relationship sms",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech relationship tel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech three support cols",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech three steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech trust four",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech qualifier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech no guaranteed discount",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech no automatically qualifies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech no guaranteed savings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech no we shop top-rated carriers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tech no serving our community since 1974",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers body marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers switcher four",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers switcher icons",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers copy zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers media zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers action zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers campaign node [data-campaign-entry-eyebrow]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers campaign node [data-campaign-entry-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers campaign node [data-campaign-entry-lead]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers campaign node [data-campaign-entry-form-kicker]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers campaign node [data-campaign-entry-form-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers campaign node [data-campaign-entry-submit]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers form exact",
+      "passed": true,
+      "detail": "b66b41a4ea62f9d94006f3a2b4c60c5bd7b7e97dedbba85fbe583212e8e5ff65 != b66b41a4ea62f9d94006f3a2b4c60c5bd7b7e97dedbba85fbe583212e8e5ff65"
+    },
+    {
+      "name": "engineers relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers relationship sms",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers relationship tel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers three support cols",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers three steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers trust four",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers qualifier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers no guaranteed discount",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers no automatically qualifies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers no guaranteed savings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers no we shop top-rated carriers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "engineers no serving our community since 1974",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists auto-bundle/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact auto-bundle/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists buyer/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact buyer/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists qa/fixtures/coveragefit-v3.20.7/transition.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact qa/fixtures/coveragefit-v3.20.7/transition.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists qa/fixtures/coveragefit-v3.20.7/home.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact qa/fixtures/coveragefit-v3.20.7/home.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists CAMPAIGN_ENTRY_REGISTRY.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact CAMPAIGN_ENTRY_REGISTRY.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/campaign-entry-registry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/campaign-entry-registry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/campaign-entry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/campaign-entry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/script.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/script.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/post-lead-engagement.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/post-lead-engagement.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/coveragefit-invitation.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/coveragefit-invitation.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/coveragefit-launch.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/coveragefit-launch.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/config.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/config.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui45-professional-hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css grid-template-areas:\"copy media action\"",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui45-professional-media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui45-professional-panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui45-professional-relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui45-professional-support",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui45-title-accent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css var(--ui3-red",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css var(--ui4-gold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:1180px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:860px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:560px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive prefers-reduced-motion",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive forced-colors:active",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "context image healthcare",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "context image teachers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "context image tech",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "context image engineers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.5 complete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap next 4.6",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "sprint": "408-UI-4.3",
+  "status": "PASS / ROOT-DEPLOYABLE",
+  "input": "408-UI-4.2 Homepage Editorial Convergence",
+  "qa": {
+    "UI4_3_QA.json": {
+      "passed": 140,
+      "total": 140,
+      "failed": 0
+    },
+    "UI4_3_BROWSER_QA.json": {
+      "passed": 174,
+      "total": 174,
+      "failed": 0
+    },
+    "UI4_3_CAMPAIGN_QA.json": {
+      "passed": 10,
+      "total": 10,
+      "failed": 0
+    }
+  },
+  "regressions": {
+    "UI-4.2 homepage browser": "129/129",
+    "UI-3.12 E2E": "59/59",
+    "static regression": "296/296",
+    "INFRA-1.1 boundary": "22/22",
+    "Home hidden-required submit": "12/12",
+    "Home pretty-path routing": "16/16",
+    "Home deep-route assets": "12/12",
+    "campaign accessibility delta": "56/56",
+    "runtime JS syntax": "42/42",
+    "internal links/assets": "770 checked / 0 broken",
+    "merchant join Worker": "20/20",
+    "Local attribution Worker": "29/29"
+  },
+  "form_contracts": "Home + Bundle leadForm exact to input",
+  "life": "excluded and protected",
+  "next": "408-UI-4.4 \u2014 Buyer Editorial Convergence"
+}

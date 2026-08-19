@@ -1,0 +1,23 @@
+{
+  "sprint": "408-UI-4.1",
+  "name": "Editorial Platform Foundation",
+  "decision": "PASS",
+  "status": "FOUNDATION_ROOT_DEPLOYABLE",
+  "input_baseline": "408-UI-3.13.1E + 408-INFRA-1.1",
+  "life_excluded": true,
+  "qa": {
+    "ui4_1_source_freeze": "157/157",
+    "ui4_1_browser": "30/30",
+    "ui3_12_e2e": "59/59",
+    "static_regression": "296/296",
+    "infra_boundary": "22/22",
+    "home_hidden_required": "12/12",
+    "home_routing": "16/16",
+    "campaign_browser": "51/51",
+    "asset_performance": "99/99",
+    "metadata": "216/216",
+    "js_syntax": "42/42",
+    "internal_links": "760/760"
+  },
+  "next_sprint": "408-UI-4.2 \u2014 Homepage Editorial Convergence"
+}

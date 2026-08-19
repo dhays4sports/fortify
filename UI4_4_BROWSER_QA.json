@@ -1,0 +1,564 @@
+{
+  "sprint": "408-UI-4.4",
+  "suite": "buyer_editorial_browser",
+  "total": 111,
+  "passed": 111,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "buyer-phone320 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 support",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 trust",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 two progress",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 three editorial steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "buyer-phone320 hero start visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 hero start >= 44px",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 581.75, 'width': 292, 'height': 50}"
+    },
+    {
+      "name": "buyer-phone320 form next visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 form next >= 44px",
+      "passed": true,
+      "detail": "{'x': 40, 'y': 1954.640625, 'width': 240, 'height': 50}"
+    },
+    {
+      "name": "buyer-phone320 call visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 call >= 44px",
+      "passed": true,
+      "detail": "{'x': 43, 'y': 2396.203125, 'width': 234, 'height': 58}"
+    },
+    {
+      "name": "buyer-phone320 media substantial",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 807.40625, 'width': 292, 'height': 615.40625}"
+    },
+    {
+      "name": "buyer-phone320 single-column hero",
+      "passed": true,
+      "detail": "292px"
+    },
+    {
+      "name": "buyer-phone320 single-column support",
+      "passed": true,
+      "detail": "292px"
+    },
+    {
+      "name": "buyer-phone320 menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone320 one-column fields",
+      "passed": true,
+      "detail": "240px"
+    },
+    {
+      "name": "buyer-phone320 16px input",
+      "passed": true,
+      "detail": "16.0"
+    },
+    {
+      "name": "buyer-phone390 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 support",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 trust",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 two progress",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 three editorial steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "buyer-phone390 hero start visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 hero start >= 44px",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 556.109375, 'width': 362, 'height': 50}"
+    },
+    {
+      "name": "buyer-phone390 form next visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 form next >= 44px",
+      "passed": true,
+      "detail": "{'x': 40, 'y': 2058.90625, 'width': 310, 'height': 50}"
+    },
+    {
+      "name": "buyer-phone390 call visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 call >= 44px",
+      "passed": true,
+      "detail": "{'x': 43, 'y': 2482.125, 'width': 304, 'height': 58}"
+    },
+    {
+      "name": "buyer-phone390 media substantial",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 764.140625, 'width': 362, 'height': 762.9375}"
+    },
+    {
+      "name": "buyer-phone390 single-column hero",
+      "passed": true,
+      "detail": "362px"
+    },
+    {
+      "name": "buyer-phone390 single-column support",
+      "passed": true,
+      "detail": "362px"
+    },
+    {
+      "name": "buyer-phone390 menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-phone390 one-column fields",
+      "passed": true,
+      "detail": "310px"
+    },
+    {
+      "name": "buyer-phone390 16px input",
+      "passed": true,
+      "detail": "16.0"
+    },
+    {
+      "name": "buyer-tablet marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet support",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet trust",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet two progress",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet three editorial steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "buyer-tablet hero start visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet hero start >= 44px",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 559.109375, 'width': 232.375, 'height': 50}"
+    },
+    {
+      "name": "buyer-tablet form next visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet form next >= 44px",
+      "passed": true,
+      "detail": "{'x': 49, 'y': 2662.34375, 'width': 670, 'height': 50}"
+    },
+    {
+      "name": "buyer-tablet call visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-tablet call >= 44px",
+      "passed": true,
+      "detail": "{'x': 393, 'y': 2970.109375, 'width': 332, 'height': 58}"
+    },
+    {
+      "name": "buyer-tablet media substantial",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 707.140625, 'width': 740, 'height': 1559.59375}"
+    },
+    {
+      "name": "buyer-tablet single-column hero",
+      "passed": true,
+      "detail": "740px"
+    },
+    {
+      "name": "buyer-tablet single-column support",
+      "passed": true,
+      "detail": "740px"
+    },
+    {
+      "name": "buyer-tablet menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop support",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop trust",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop two progress",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop three editorial steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 1024, 'sw': 1024, 'bw': 1024}"
+    },
+    {
+      "name": "buyer-laptop hero start visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop hero start >= 44px",
+      "passed": true,
+      "detail": "{'x': 20, 'y': 813.75, 'width': 232.375, 'height': 50}"
+    },
+    {
+      "name": "buyer-laptop form next visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop form next >= 44px",
+      "passed": true,
+      "detail": "{'x': 440.59375, 'y': 1667.96875, 'width': 516.8125, 'height': 50}"
+    },
+    {
+      "name": "buyer-laptop call visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-laptop call >= 44px",
+      "passed": true,
+      "detail": "{'x': 758.734375, 'y': 1902.546875, 'width': 220.265625, 'height': 58}"
+    },
+    {
+      "name": "buyer-laptop media substantial",
+      "passed": true,
+      "detail": "{'x': 462.796875, 'y': 113.046875, 'width': 541.203125, 'height': 1140.609375}"
+    },
+    {
+      "name": "buyer-desktop marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop support",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop trust",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop one lead form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop two progress",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop three editorial steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "buyer-desktop hero start visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop hero start >= 44px",
+      "passed": true,
+      "detail": "{'x': 100, 'y': 829.09375, 'width': 232.375, 'height': 50}"
+    },
+    {
+      "name": "buyer-desktop form next visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop form next >= 44px",
+      "passed": true,
+      "detail": "{'x': 1018, 'y': 751.765625, 'width': 292, 'height': 50}"
+    },
+    {
+      "name": "buyer-desktop call visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer-desktop call >= 44px",
+      "passed": true,
+      "detail": "{'x': 966.734375, 'y': 1127.71875, 'width': 220.265625, 'height': 58}"
+    },
+    {
+      "name": "buyer-desktop media substantial",
+      "passed": true,
+      "detail": "{'x': 510.140625, 'y': 124, 'width': 457.859375, 'height': 964.953125}"
+    },
+    {
+      "name": "buyer-desktop three-zone desktop",
+      "passed": true,
+      "detail": "410.141px 457.859px 372px"
+    },
+    {
+      "name": "buyer-desktop three support columns",
+      "passed": true,
+      "detail": "373.328px 373.328px 373.344px"
+    },
+    {
+      "name": "buyer-desktop direct header contact",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

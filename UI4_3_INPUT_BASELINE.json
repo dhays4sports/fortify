@@ -1,0 +1,47 @@
+{
+  "source_zip": "408FARMERS_408-UI-4.2_Homepage_Editorial_Convergence_ROOT_DEPLOYABLE(1).zip",
+  "non_target_public_html_sha256": {
+    "tech/index.html": "ebe391a96891a3300dcfe4db71a2cf77c9f89aba293e9469a402c2b3e47e48bb",
+    "tech/thank-you.html": "65370f2152f22699742d1f425c0e55568e9fb96fbc16a22e5a9666ebd749e2ac",
+    "engineers/index.html": "78b131b900833eb6fc5458d00916d76c4c1fda2115c543cd44cb9ae105480c71",
+    "engineers/thank-you.html": "fed693e077adebb57c9e128e3742b46175b433fef033031a536fe306d538d566",
+    "index.html": "a0b9d39c911937c31aa73f75dd73d36a3628f207aae338f9155fc385e756da75",
+    "home/thank-you.html": "93866ec4f73bcbf7134ab03c75a07c629d3d9bd970bc959cc062539614d73327",
+    "privacy.html": "41162964910dae438fa8e5c214960e6e934138c4199392bd6a3968433cd1ca35",
+    "contact/index.html": "87a7ceb263b4b7dc6d40312ca4b25929eb52df11ecd501f2ca589cbfe450eb4b",
+    "terms.html": "eef550465f61d889eec7b66480413e0bffa84a44df393ed01484e63060f09960",
+    "healthcare/index.html": "fdc2d26975d3e47681a7774390d9398e23d6f1ed9cef6350c16858b77125229b",
+    "healthcare/thank-you.html": "2097af967c40ed3c9cc70565ad4067555d4edddc4ec41b659ed79c124ab5e114",
+    "neighbor/index.html": "258429d0e2a78dbeae50d28458f6f7aeae3a97a518344aebc8c06c17f4fe29ea",
+    "404.html": "f46af52dd9e9bcef613bb44c14a7e2ad9cf605dc3d2fbf9161ff1a1cd7d11c25",
+    "score/index.html": "adabf99abc1024a447484af1012975399bf5be7e61d084d6b9903b0e2416e0d8",
+    "teachers/index.html": "6bb4da70e1fafb8aa72574d58fd991a2f87177b09959bd2ab8339d610bee9f83",
+    "teachers/thank-you.html": "72f87834eb8da1a0e102c6e0b4490a07d1cfa327a3188a95faf0d11fc0b40ca3",
+    "auto-bundle/thank-you.html": "a0c4dc007e467b67129c23e5c089e0eb4834d5949da126fcea1366c53dd756ba",
+    "local/index.html": "ac3eb2ac43111577e608d848d8d60df8de8b1bd18851570121a3791fc7bb4073",
+    "local/join/index.html": "42fa0012cf60b2b3e9293dcaff2967e119d09e842fe9c1539e4ee012b14ff587",
+    "local/join/thank-you.html": "18bc7ac0d81a36e6d0441440653b3033e69ed6d4d94a3373a3bee873d3c74fd3",
+    "local/detail/index.html": "a409e4d9a6d07e61fb4cc557c0885b36e3be602786eeb9d3e29f8be017a32a61",
+    "buyer/index.html": "a26cef91edfb8deeba78da38918f15ba8413a88a87bdd2c3f51700ca707b6d90",
+    "buyer/thank-you.html": "0a0c502be5dd53f27a5e1e5c40a16e1906d8e0e74f4946f5a2b99d06acc2e4b8"
+  },
+  "protected_sha256": {
+    "life/index.html": "192da909e603efb3ad3468618051b11fea61bb905d64bfd373b38892d37bebcd",
+    "life/thank-you.html": "b80812417206c0c5a53400812235a9f36c226ba2744ef749b0ca3bde977a8acc",
+    "life-ops/index.html": "a2e8a1c9f9fa0535fdcdb99ca76c8770c3ca055401fb109d6671f1e3b083fb6b",
+    "_worker.js": "fff94d29593f23a15765e66b6627e0339480e0ca394ad86086b06026392d2690",
+    "_routes.json": "3568f8f7108595e37ae0da752971d749b2d498ef713ac1b4b302c937a73495d6",
+    "shared/campaign-entry-registry.js": "7e04e758092b44c6c4eff2017671c520ee3dc7bb020ed33bd38a83db3735b843",
+    "shared/campaign-entry.js": "f12cfefd5a703ba6a02defc56a7ff674ff668701a818b675f16d96e86f139a84",
+    "shared/home-baseline.js": "b0ae8e923e21d8392640ce78dc8fd0f7b6c46cee2d841112b30b4d500dbc0dba",
+    "shared/home-lead-progressive.js": "e71cca1508b06d663f7021ce159cdaa26bd3e7d569fb1f02e776d1f7079a1cb1",
+    "shared/home-engagement.js": "8b1e878b22da159c7eb497daff8fc61b49a2a5ad18080e0f91573c2ea8621dc2",
+    "shared/post-lead-engagement.js": "1aae0ff708988296d803b4fa85fe09d7bae182a0bab59b0a4f34ca91445db443",
+    "shared/coveragefit-invitation.js": "12a3d449da1d176c9fcb16efbb0e344e942659b6c3697cef1be2500f4873217e",
+    "shared/address-autocomplete.js": "e457fa24ba4dff7585b7795172b90fbe52c651b918fb54d4a35f2ac3b486f4f0"
+  },
+  "form_sha256": {
+    "home/index.html": "5c9019ff8f2548632df2557b6d70fce0002b11a29b141156a2931e179cfa73eb",
+    "auto-bundle/index.html": "392b6e5029c556aa8c0ca9c2b8b34e622625ccf2c989b6bc58e3ccb93fd53caa"
+  }
+}

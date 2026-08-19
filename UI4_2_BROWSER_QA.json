@@ -1,0 +1,654 @@
+{
+  "sprint": "408-UI-4.2",
+  "suite": "homepage_editorial_browser",
+  "total": 129,
+  "passed": 129,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "phone320 ui3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 ui4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 homepage marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 hero h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 not quote",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 contextual media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 action panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 right routes three",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 relationship band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 full six situations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 four secondary products",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 CoverageFit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 Local",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 agent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "phone320 hero CTA visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 hero CTA >= 44px",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 633.40625, 'width': 292, 'height': 52}"
+    },
+    {
+      "name": "phone320 hero situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 hero situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 46, 'y': 1448.203125, 'width': 228, 'height': 71.8125}"
+    },
+    {
+      "name": "phone320 full situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 full situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 20, 'y': 2395.984375, 'width': 280, 'height': 146.84375}"
+    },
+    {
+      "name": "phone320 single column editorial hero",
+      "passed": true,
+      "detail": "292px"
+    },
+    {
+      "name": "phone320 mobile menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 menu opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 menu closes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone320 one column full chooser",
+      "passed": true,
+      "detail": "280px"
+    },
+    {
+      "name": "phone320 no headline word fragmentation",
+      "passed": true,
+      "detail": "[['Insurance', 1], ['That', 1], ['Fits.', 1]]"
+    },
+    {
+      "name": "phone390 ui3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 ui4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 homepage marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 hero h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 not quote",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 contextual media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 action panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 right routes three",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 relationship band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 full six situations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 four secondary products",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 CoverageFit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 Local",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 agent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "phone390 hero CTA visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 hero CTA >= 44px",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 616.5625, 'width': 362, 'height': 52}"
+    },
+    {
+      "name": "phone390 hero situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 hero situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 46, 'y': 1550.890625, 'width': 298, 'height': 62}"
+    },
+    {
+      "name": "phone390 full situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 full situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 20, 'y': 2415.859375, 'width': 350, 'height': 146.84375}"
+    },
+    {
+      "name": "phone390 single column editorial hero",
+      "passed": true,
+      "detail": "362px"
+    },
+    {
+      "name": "phone390 mobile menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 menu opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 menu closes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "phone390 one column full chooser",
+      "passed": true,
+      "detail": "350px"
+    },
+    {
+      "name": "phone390 no headline word fragmentation",
+      "passed": true,
+      "detail": "[['Insurance', 1], ['That', 1], ['Fits.', 1]]"
+    },
+    {
+      "name": "tablet ui3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet ui4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet homepage marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet hero h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet not quote",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet contextual media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet action panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet right routes three",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet relationship band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet full six situations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet four secondary products",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet CoverageFit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet Local",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet agent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "tablet hero CTA visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet hero CTA >= 44px",
+      "passed": true,
+      "detail": "{'x': 14, 'y': 426.515625, 'width': 250, 'height': 52}"
+    },
+    {
+      "name": "tablet hero situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet hero situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 51, 'y': 1774.453125, 'width': 666, 'height': 62}"
+    },
+    {
+      "name": "tablet full situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet full situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 20, 'y': 2544.796875, 'width': 364, 'height': 166}"
+    },
+    {
+      "name": "tablet single column editorial hero",
+      "passed": true,
+      "detail": "740px"
+    },
+    {
+      "name": "tablet mobile menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet menu opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet menu closes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "tablet two column full chooser",
+      "passed": true,
+      "detail": "364px 364px"
+    },
+    {
+      "name": "tablet no headline word fragmentation",
+      "passed": true,
+      "detail": "[['Insurance', 1], ['That', 1], ['Fits.', 1]]"
+    },
+    {
+      "name": "laptop ui3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop ui4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop homepage marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop hero h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop not quote",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop contextual media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop action panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop right routes three",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop relationship band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop full six situations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop four secondary products",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop CoverageFit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop Local",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop agent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 1024, 'sw': 1024, 'bw': 1024}"
+    },
+    {
+      "name": "laptop hero CTA visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop hero CTA >= 44px",
+      "passed": true,
+      "detail": "{'x': 20, 'y': 785.515625, 'width': 250, 'height': 50}"
+    },
+    {
+      "name": "laptop hero situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop hero situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 467, 'y': 1212.53125, 'width': 166, 'height': 102.71875}"
+    },
+    {
+      "name": "laptop full situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "laptop full situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 20, 'y': 1764.65625, 'width': 328, 'height': 166}"
+    },
+    {
+      "name": "laptop three column full chooser",
+      "passed": true,
+      "detail": "328px 328px 328px"
+    },
+    {
+      "name": "laptop no headline word fragmentation",
+      "passed": true,
+      "detail": "[['Insurance', 1], ['That', 1], ['Fits.', 1]]"
+    },
+    {
+      "name": "desktop ui3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop ui4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop homepage marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop hero h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop not quote",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop contextual media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop action panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop right routes three",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop relationship band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop full six situations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop four secondary products",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop CoverageFit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop Local",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop agent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop no horizontal overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "desktop hero CTA visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop hero CTA >= 44px",
+      "passed": true,
+      "detail": "{'x': 100, 'y': 766.234375, 'width': 250, 'height': 50}"
+    },
+    {
+      "name": "desktop hero situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop hero situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 1042.234375, 'y': 500.328125, 'width': 274.75, 'height': 64}"
+    },
+    {
+      "name": "desktop full situation visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop full situation >= 44px",
+      "passed": true,
+      "detail": "{'x': 140, 'y': 1397.4375, 'width': 386.65625, 'height': 166}"
+    },
+    {
+      "name": "desktop three zone desktop",
+      "passed": true,
+      "detail": "463.812px 435.422px 340.75px"
+    },
+    {
+      "name": "desktop header direct contact",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "desktop three column full chooser",
+      "passed": true,
+      "detail": "386.656px 386.672px 386.656px"
+    },
+    {
+      "name": "desktop no headline word fragmentation",
+      "passed": true,
+      "detail": "[['Insurance', 1], ['That', 1], ['Fits.', 1]]"
+    }
+  ]
+}

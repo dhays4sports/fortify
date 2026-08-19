@@ -1,0 +1,579 @@
+{
+  "sprint": "408-UI-4.6",
+  "suite": "local_community_editorial_browser",
+  "total": 114,
+  "passed": 114,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "directory-phone320 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 copy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 category panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 grid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 only real proxies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 stevie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 hero category visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 hero category target",
+      "passed": true,
+      "detail": "{'x': 44, 'y': 1194.546875, 'width': 232, 'height': 48}"
+    },
+    {
+      "name": "directory-phone320 primary visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone320 primary target",
+      "passed": true,
+      "detail": "{'x': 43, 'y': 1355.546875, 'width': 234, 'height': 50}"
+    },
+    {
+      "name": "directory-phone320 no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "directory-phone320 one-column",
+      "passed": true,
+      "detail": "292px"
+    },
+    {
+      "name": "directory-phone320 proxy selection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 copy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 category panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 grid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 only real proxies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 stevie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 hero category visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 hero category target",
+      "passed": true,
+      "detail": "{'x': 44, 'y': 1260.4375, 'width': 302, 'height': 48}"
+    },
+    {
+      "name": "directory-phone390 primary visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-phone390 primary target",
+      "passed": true,
+      "detail": "{'x': 43, 'y': 1421.4375, 'width': 304, 'height': 50}"
+    },
+    {
+      "name": "directory-phone390 no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "directory-phone390 one-column",
+      "passed": true,
+      "detail": "362px"
+    },
+    {
+      "name": "directory-phone390 proxy selection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet copy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet category panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet grid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet only real proxies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet stevie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet hero category visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet hero category target",
+      "passed": true,
+      "detail": "{'x': 56, 'y': 1548.546875, 'width': 656, 'height': 48}"
+    },
+    {
+      "name": "directory-tablet primary visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-tablet primary target",
+      "passed": true,
+      "detail": "{'x': 55, 'y': 1709.546875, 'width': 658, 'height': 50}"
+    },
+    {
+      "name": "directory-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "directory-tablet one-column",
+      "passed": true,
+      "detail": "740px"
+    },
+    {
+      "name": "directory-tablet proxy selection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop copy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop category panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop grid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop only real proxies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop stevie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop hero category visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop hero category target",
+      "passed": true,
+      "detail": "{'x': 490, 'y': 941.5625, 'width': 464, 'height': 48}"
+    },
+    {
+      "name": "directory-laptop primary visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-laptop primary target",
+      "passed": true,
+      "detail": "{'x': 489, 'y': 1102.5625, 'width': 466, 'height': 50}"
+    },
+    {
+      "name": "directory-laptop no overflow",
+      "passed": true,
+      "detail": "{'w': 1024, 'sw': 1024, 'bw': 1024}"
+    },
+    {
+      "name": "directory-laptop proxy selection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop copy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop category panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop grid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop only real proxies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop stevie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop hero category visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop hero category target",
+      "passed": true,
+      "detail": "{'x': 1030.875, 'y': 420.046875, 'width': 281.125, 'height': 48}"
+    },
+    {
+      "name": "directory-desktop primary visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory-desktop primary target",
+      "passed": true,
+      "detail": "{'x': 1029.875, 'y': 581.046875, 'width': 283.125, 'height': 50}"
+    },
+    {
+      "name": "directory-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "directory-desktop three-zone",
+      "passed": true,
+      "detail": "426.547px 456.328px 357.125px"
+    },
+    {
+      "name": "directory-desktop proxy selection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-phone stevie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-phone perk",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-phone bridge",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-phone no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "detail-phone use perk visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-phone use perk target",
+      "passed": true,
+      "detail": "{'x': 35, 'y': 1386.3125, 'width': 250, 'height': 50}"
+    },
+    {
+      "name": "detail-tablet stevie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-tablet perk",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-tablet bridge",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "detail-tablet use perk visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-tablet use perk target",
+      "passed": true,
+      "detail": "{'x': 51, 'y': 1223.375, 'width': 210, 'height': 50}"
+    },
+    {
+      "name": "detail-desktop stevie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-desktop perk",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-desktop bridge",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "detail-desktop use perk visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "detail-desktop use perk target",
+      "passed": true,
+      "detail": "{'x': 281, 'y': 852.25, 'width': 210, 'height': 50}"
+    },
+    {
+      "name": "local/join/index.html-phone marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-phone no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "local/join/index.html-phone hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-phone form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-phone submit visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-phone submit target",
+      "passed": true,
+      "detail": "{'x': 33, 'y': 4964.515625, 'width': 254, 'height': 50}"
+    },
+    {
+      "name": "local/join/index.html-tablet marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "local/join/index.html-tablet hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-tablet form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-tablet submit visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-tablet submit target",
+      "passed": true,
+      "detail": "{'x': 347, 'y': 3939.40625, 'width': 372, 'height': 50}"
+    },
+    {
+      "name": "local/join/index.html-desktop marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "local/join/index.html-desktop hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-desktop form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-desktop submit visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html-desktop submit target",
+      "passed": true,
+      "detail": "{'x': 597.546875, 'y': 2653.609375, 'width': 633.453125, 'height': 50}"
+    },
+    {
+      "name": "local/join/thank-you.html-phone marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html-phone no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "local/join/thank-you.html-phone thanks",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html-tablet marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "local/join/thank-you.html-tablet thanks",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html-desktop marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "local/join/thank-you.html-desktop thanks",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

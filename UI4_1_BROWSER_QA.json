@@ -1,0 +1,159 @@
+{
+  "sprint": "408-UI-4.1",
+  "suite": "editorial_platform_foundation_browser",
+  "total": 30,
+  "passed": 30,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "index.html-phone ui4 body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html-phone menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html-phone no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "index.html-desktop ui4 body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html-desktop professionals nav",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html-desktop contact visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html-desktop sms href",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html-desktop tel href",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html-desktop active nav logic delegated",
+      "passed": true,
+      "detail": "about:blank inline harness cannot preserve route pathname; source registry tested separately"
+    },
+    {
+      "name": "index.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "healthcare/index.html-phone ui4 body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html-phone menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html-phone no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "healthcare/index.html-desktop ui4 body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html-desktop professionals nav",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html-desktop contact visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html-desktop sms href",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html-desktop tel href",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "healthcare/index.html-desktop active nav logic delegated",
+      "passed": true,
+      "detail": "about:blank inline harness cannot preserve route pathname; source registry tested separately"
+    },
+    {
+      "name": "healthcare/index.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "local/index.html-phone ui4 body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/index.html-phone menu toggle",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/index.html-phone no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "local/index.html-desktop ui4 body",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/index.html-desktop professionals nav",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/index.html-desktop contact visible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/index.html-desktop sms href",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/index.html-desktop tel href",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/index.html-desktop active nav logic delegated",
+      "passed": true,
+      "detail": "about:blank inline harness cannot preserve route pathname; source registry tested separately"
+    },
+    {
+      "name": "local/index.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    }
+  ]
+}

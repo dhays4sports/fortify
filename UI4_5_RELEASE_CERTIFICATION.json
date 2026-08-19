@@ -1,0 +1,39 @@
+{
+  "sprint": "408-UI-4.5",
+  "name": "Professional Programs Campaign Convergence",
+  "status": "PASS",
+  "deployable": true,
+  "qa": {
+    "ui45_source_behavior": "206/206",
+    "ui45_browser_responsive": "388/388",
+    "ui42_homepage_browser": "129/129",
+    "ui43_home_bundle_browser": "174/174",
+    "ui43_campaign_continuity": "10/10",
+    "ui44_buyer_browser": "111/111",
+    "ui312_e2e": "59/59",
+    "campaign_accessibility": "56/56",
+    "static": "296/296",
+    "infra_boundary": "22/22",
+    "infra_preservation": "4/4",
+    "home_submit": "12/12",
+    "home_routing": "16/16",
+    "merchant_join_worker": "20/20",
+    "local_attribution_worker": "29/29",
+    "assets_performance": "99/99",
+    "metadata": "216/216",
+    "js_syntax": "43/43",
+    "logo": "14/14",
+    "internal_links": "781 checked / 0 broken"
+  },
+  "protected": [
+    "Life/Life Ops",
+    "_worker.js",
+    "_routes.json",
+    "Campaign Entry Registry/runtime",
+    "four occupational lead-form semantics",
+    "Formspree/consent",
+    "CoverageFit handoff",
+    "408-INFRA-1.1"
+  ],
+  "next": "408-UI-4.6 \u2014 Local Community Convergence"
+}

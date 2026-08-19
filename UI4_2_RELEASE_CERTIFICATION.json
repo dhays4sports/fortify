@@ -1,0 +1,64 @@
+{
+  "sprint": "408-UI-4.2",
+  "status": "PASS / ROOT-DEPLOYABLE",
+  "input": "408-UI-4.1 \u2014 Editorial Platform Foundation",
+  "homepage_sha256": "a0b9d39c911937c31aa73f75dd73d36a3628f207aae338f9155fc385e756da75",
+  "homepage_editorial_css_sha256": "5ab0cbcf0544d32a3f28e1666a870424e0620eddc003da9c1757033810fe114a",
+  "behavior_summary": {
+    "baseline_homepage_destinations_retained": true,
+    "baseline_tracked_anchors_retained": true,
+    "non_homepage_public_html_exact_to_input": true,
+    "life_exact_to_input": true,
+    "protected_runtime_exact_to_input": true,
+    "infra_1_1_preserved": true
+  },
+  "qa": {
+    "UI4_2_QA.json": {
+      "passed": 135,
+      "total": 135,
+      "failed": 0
+    },
+    "UI4_2_BROWSER_QA.json": {
+      "passed": 129,
+      "total": 129,
+      "failed": 0
+    },
+    "UI3_12_E2E_QA.json": {
+      "passed": 59,
+      "total": 59,
+      "failed": 0
+    },
+    "UI3_13_ASSET_PERFORMANCE_QA.json": {
+      "passed": 99,
+      "total": 99,
+      "failed": 0
+    },
+    "UI3_13_METADATA_QA.json": {
+      "passed": 216,
+      "total": 216,
+      "failed": 0
+    },
+    "UI3_13_LINK_QA.json": {
+      "passed": 765,
+      "total": 765,
+      "failed": 0
+    },
+    "UI3_13_JS_SYNTAX_QA.json": {
+      "passed": 42,
+      "total": 42,
+      "failed": 0
+    },
+    "UI3_11_1_BROWSER_QA.json": {
+      "passed": 51,
+      "total": 51,
+      "failed": 0
+    },
+    "UI3_11_1_ACCESSIBILITY_QA.json": {
+      "passed": 56,
+      "total": 56,
+      "failed": 0
+    }
+  },
+  "known_scope_note": "UI-4.2 intentionally changes homepage composition. Historical visual-freeze tests that assert older UI generations are not release gates; current UI-4.2, E2E, static, campaign, metadata, asset, link, JS, and INFRA suites are the release gates.",
+  "next_sprint": "408-UI-4.3 \u2014 Home + Bundle Editorial Convergence"
+}

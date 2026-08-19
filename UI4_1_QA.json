@@ -1,0 +1,794 @@
+{
+  "sprint": "408-UI-4.1",
+  "suite": "editorial_platform_foundation",
+  "total": 157,
+  "passed": 157,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "exists editorial-platform.css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists editorial-platform.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists EDITORIAL-PLATFORM-DESIGN-SYSTEM.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists EDITORIAL-PLATFORM-COMPONENT-REGISTRY.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists 408-UI-4-ROADMAP.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists SPRINT-408-UI-4.1.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css --ui4-gold-700",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css --ui4-gold-500",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui4-editorial-hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui4-action-panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui4-relationship-band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui4-editorial-columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui4-trust-strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js Professionals",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js Text or Call Dylan",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js sms:+14083276377",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js tel:+14083276377",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ui4-page",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "red remains action documented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life excluded documented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact auto-bundle/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker auto-bundle/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref auto-bundle/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref auto-bundle/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact buyer/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker buyer/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref buyer/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref buyer/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact engineers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker engineers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref engineers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref engineers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact engineers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker engineers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref engineers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref engineers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact healthcare/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker healthcare/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref healthcare/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref healthcare/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact healthcare/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker healthcare/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref healthcare/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref healthcare/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact teachers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker teachers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref teachers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref teachers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact teachers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker teachers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref teachers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref teachers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact tech/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker tech/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref tech/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref tech/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact tech/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker tech/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref tech/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref tech/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body exact terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "marker terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ref terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js ref terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life exact life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life no ui4 life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life exact life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life no ui4 life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life exact life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life no ui4 life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/script.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/campaign-entry-registry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/local-attribution.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/local-data-model.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/local-directory.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/local-merchant.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/local-join.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/life-intake.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/life-secure-submit.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/life-campaign.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.6",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.8",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.9",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Homepage Editorial Convergence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Home + Bundle Editorial Convergence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Buyer Editorial Convergence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Professional Programs Campaign Convergence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Local Community Convergence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Relationship + Completion Editorial Convergence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Mobile + Responsive Editorial Pass",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Accessibility + Performance Certification",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap detail Functional Regression + Production Certification",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

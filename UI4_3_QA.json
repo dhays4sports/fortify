@@ -1,0 +1,709 @@
+{
+  "sprint": "408-UI-4.3",
+  "suite": "home_bundle_editorial_source",
+  "total": 140,
+  "passed": 140,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "exists shared/home-bundle-editorial.css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists SPRINT-408-UI-4.3.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "exists 408-UI-4-ROADMAP.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html meta",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html body marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html editorial hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html copy zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html media zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html working form zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html relationship band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html sms relation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html tel relation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html editorial columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home/index.html form exact",
+      "passed": true,
+      "detail": "5c9019ff8f2548632df2557b6d70fce0002b11a29b141156a2931e179cfa73eb != 5c9019ff8f2548632df2557b6d70fce0002b11a29b141156a2931e179cfa73eb"
+    },
+    {
+      "name": "auto-bundle/index.html meta",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html body marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html editorial hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html copy zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html media zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html working form zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html relationship band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html sms relation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html tel relation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html editorial columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html trust strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "auto-bundle/index.html form exact",
+      "passed": true,
+      "detail": "392b6e5029c556aa8c0ca9c2b8b34e622625ccf2c989b6bc58e3ccb93fd53caa != 392b6e5029c556aa8c0ca9c2b8b34e622625ccf2c989b6bc58e3ccb93fd53caa"
+    },
+    {
+      "name": "home campaign node [data-home-campaign-badge]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home campaign node [data-home-campaign-eyebrow]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home campaign node [data-home-campaign-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home campaign node [data-home-campaign-lead]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home campaign node [data-home-campaign-copy]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home campaign node [data-home-campaign-cta]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home campaign node [data-home-campaign-reassurance]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home anchor contract",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home engagement retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home payoff retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home progressive retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle campaign node [data-campaign-entry-eyebrow]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle campaign node [data-campaign-entry-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle campaign node [data-campaign-entry-lead]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle campaign node [data-campaign-entry-form-kicker]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle campaign node [data-campaign-entry-form-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle campaign node [data-campaign-entry-submit]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle renter destination",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle housing branch",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists tech/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact tech/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists tech/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact tech/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists engineers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact engineers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists engineers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact engineers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists healthcare/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact healthcare/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists healthcare/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact healthcare/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists teachers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact teachers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists teachers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact teachers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists buyer/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact buyer/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/campaign-entry-registry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/campaign-entry-registry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/campaign-entry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/campaign-entry.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/home-baseline.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/home-baseline.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/home-lead-progressive.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/home-lead-progressive.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/home-engagement.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/home-engagement.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/post-lead-engagement.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/post-lead-engagement.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/coveragefit-invitation.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/coveragefit-invitation.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/address-autocomplete.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/address-autocomplete.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token ui43-hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token grid-template-areas:\"copy media action\"",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token ui43-relationship-band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token ui43-support-columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token ui43-trust-strip",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token var(--ui4-gold-500)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token var(--ui3-red)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:1120px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:860px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:620px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced motion",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported we shop top-rated carriers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported serving our community since 1974",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported guaranteed savings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported guaranteed discount",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported instant approval",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.3 complete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap next 4.4",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

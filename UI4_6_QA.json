@@ -1,0 +1,439 @@
+{
+  "sprint": "408-UI-4.6",
+  "suite": "local_community_editorial_source",
+  "total": 86,
+  "passed": 86,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "directory marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory hero copy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory hero media",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory hero action",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "four real category proxies",
+      "passed": true,
+      "detail": "['all', 'eat-drink', 'home', 'auto']"
+    },
+    {
+      "name": "supported category keys",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no fabricated family & kids",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no fabricated health & wellness",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no fabricated shopping & retail",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no fabricated experiences",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no fabricated miles away",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no fabricated star rating",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory mechanics root",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "directory native filters preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "explicit no purchase",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "editorial three",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "merchant recruitment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/detail/index.html marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/detail/index.html css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/detail/index.html js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/detail/index.html one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/index.html one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local/join/thank-you.html one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "join form exact",
+      "passed": true,
+      "detail": "879f448bbcbca74fefeebe1dcebb58cd3c82cf91eb0faa133f4c4522b209d28c != 879f448bbcbca74fefeebe1dcebb58cd3c82cf91eb0faa133f4c4522b209d28c"
+    },
+    {
+      "name": "join separation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists local/data/catalog.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact local/data/catalog.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists local/data/catalog.schema.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact local/data/catalog.schema.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists shared/local-data-model.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact shared/local-data-model.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists shared/local-directory.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact shared/local-directory.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists shared/local-merchant.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact shared/local-merchant.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists shared/local-attribution.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact shared/local-attribution.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists shared/local-join.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact shared/local-join.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exists CAMPAIGN_ENTRY_REGISTRY.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected_sha256 exact CAMPAIGN_ENTRY_REGISTRY.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life_sha256 exists life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life_sha256 exact life-ops/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life_sha256 exists life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life_sha256 exact life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life_sha256 exists life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "life_sha256 exact life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "infra_sha256 exists _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "infra_sha256 exact _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "infra_sha256 exists SPRINT-408-INFRA-1.1.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "infra_sha256 exact SPRINT-408-INFRA-1.1.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "infra_sha256 exists INFRA1_1_RELEASE_CERTIFICATION.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "infra_sha256 exact INFRA1_1_RELEASE_CERTIFICATION.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui46-local-hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css grid-template-columns:minmax(0,.86fr)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui46-local-category-panel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css local-directory-grid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui46-local-editorial",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css local-detail-page",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css ui46-local-join-hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css var(--ui4-gold-500",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css var(--ui3-red",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css @media(max-width:860px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css prefers-reduced-motion",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css forced-colors:active",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js data-ui46-local-filter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js data-local-filter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js scrollIntoView",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "js MutationObserver",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.6 complete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap next 4.7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "sprint doc",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "contract",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

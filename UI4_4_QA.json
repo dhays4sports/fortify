@@ -1,0 +1,664 @@
+{
+  "sprint": "408-UI-4.4",
+  "suite": "buyer_editorial_source",
+  "total": 131,
+  "passed": 131,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "buyer css exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer contract exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer sprint doc exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer meta hook",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer css hook",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "body marker",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "editorial hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "copy zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "media zone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "working form action",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "buyer review anchor",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "referral acknowledgement",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "campaign node [data-campaign-entry-kicker]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "campaign node [data-campaign-entry-title]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "campaign node [data-campaign-entry-lead]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "campaign node [data-campaign-entry-body]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "campaign node [data-campaign-entry-start-online]",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "text Dylan hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "start online hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "two progress items",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "two buyer steps",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "form exact",
+      "passed": true,
+      "detail": "829acb3a2a1076fee970b4b6150d8516eb5357dd772e3af45ff3685c784562cc != 829acb3a2a1076fee970b4b6150d8516eb5357dd772e3af45ff3685c784562cc"
+    },
+    {
+      "name": "relationship band",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "relationship sms",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "relationship tel",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "support three columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "promise steps 3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "trust strip 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "one h1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported guaranteed turnaround",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported same-day closing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported guaranteed savings",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported we shop top-rated carriers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no unsupported serving our community since 1974",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "no instant quote retained",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "underwriting qualifier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact _worker.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact _routes.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists CAMPAIGN_ENTRY_REGISTRY.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact CAMPAIGN_ENTRY_REGISTRY.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/buyer-flow.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/buyer-flow.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/buyer-referral.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/buyer-referral.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/address-autocomplete.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/address-autocomplete.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/coveragefit-launch.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/coveragefit-launch.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/prospect-profile.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/prospect-profile.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/post-lead-engagement.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/post-lead-engagement.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/coveragefit-invitation.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/coveragefit-invitation.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/script.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/script.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/config.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/config.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/editorial-platform.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/editorial-platform.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exists shared/editorial-platform.css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "protected exact shared/editorial-platform.css",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact privacy.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact terms.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact 404.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists tech/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact tech/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists tech/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact tech/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists engineers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact engineers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists engineers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact engineers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact home/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact home/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact contact/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists healthcare/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact healthcare/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists healthcare/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact healthcare/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact neighbor/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact score/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists teachers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact teachers/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists teachers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact teachers/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact life/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact life/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists auto-bundle/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact auto-bundle/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact auto-bundle/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact buyer/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/join/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/join/thank-you.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exists local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "non-target exact local/detail/index.html",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token ui44-buyer-hero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token grid-template-areas:\"copy media action\"",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token ui44-buyer-relationship",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token ui44-buyer-support",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token ui44-buyer-trust",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token var(--ui4-gold-600)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "css token var(--ui3-red)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:1120px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:860px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive @media(max-width:620px)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "responsive max-height:540px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "reduced motion",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forced colors",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap 4.4 complete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "roadmap next 4.5",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

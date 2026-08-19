@@ -1,0 +1,59 @@
+{
+  "sprint": "408-UI-4.3",
+  "suite": "home_bundle_campaign_continuity",
+  "total": 10,
+  "passed": 10,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "home organic inactive",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home organic editorial copy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home coaster matched",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home coaster id",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "home flyer title",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle organic inactive",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle organic editorial copy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle coaster matched",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bundle coaster submit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "unknown safe fallback",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
