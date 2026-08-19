@@ -1,0 +1,35 @@
+{
+  "sprint": "408-UI-4.5",
+  "name": "Professional Programs Campaign Convergence",
+  "status": "COMPLETE",
+  "target_routes": [
+    "/healthcare/",
+    "/teachers/",
+    "/tech/",
+    "/engineers/"
+  ],
+  "composition": [
+    "profession-first editorial copy",
+    "campaign-derived professional photography",
+    "existing occupational form in working action panel",
+    "Dylan relationship band",
+    "three-column editorial support"
+  ],
+  "protected": [
+    "four lead-form data semantics",
+    "profession role lists",
+    "eligibility and underwriting qualifiers",
+    "Formspree and consent",
+    "Campaign Message-Match Registry/runtime",
+    "CoverageFit handoff",
+    "Life/Life Ops",
+    "408-INFRA-1.1"
+  ],
+  "explicit_non_goals": [
+    "no automatic discount determination",
+    "no guarantee that occupation qualifies",
+    "no new pricing or underwriting logic",
+    "no Life redesign"
+  ],
+  "next": "408-UI-4.6 \u2014 Local Community Convergence"
+}

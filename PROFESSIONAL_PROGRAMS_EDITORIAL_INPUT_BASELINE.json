@@ -1,0 +1,48 @@
+{
+  "input_build": "408-UI-4.4",
+  "forms_sha256": {
+    "healthcare": "e7bade8300bb86d6f1966c7f9042c88e29d1d3279199e55d87591683b8ee048e",
+    "teachers": "7fcaa7751e9a315d02622aae50d3001824cce831116bb92a85fb0eee48211c67",
+    "tech": "2210b97721f7651b63033dae60842f6f0afa76941612eb6fec57fdcc7ec5df71",
+    "engineers": "b66b41a4ea62f9d94006f3a2b4c60c5bd7b7e97dedbba85fbe583212e8e5ff65"
+  },
+  "non_target_public_html_sha256": {
+    "index.html": "a0b9d39c911937c31aa73f75dd73d36a3628f207aae338f9155fc385e756da75",
+    "privacy.html": "41162964910dae438fa8e5c214960e6e934138c4199392bd6a3968433cd1ca35",
+    "terms.html": "eef550465f61d889eec7b66480413e0bffa84a44df393ed01484e63060f09960",
+    "404.html": "f46af52dd9e9bcef613bb44c14a7e2ad9cf605dc3d2fbf9161ff1a1cd7d11c25",
+    "home/index.html": "8105c4782e6951e652b9e5b794ed4b657e29299cd63ad81f1fab209ce505ae7b",
+    "home/thank-you.html": "93866ec4f73bcbf7134ab03c75a07c629d3d9bd970bc959cc062539614d73327",
+    "life-ops/index.html": "a2e8a1c9f9fa0535fdcdb99ca76c8770c3ca055401fb109d6671f1e3b083fb6b",
+    "contact/index.html": "87a7ceb263b4b7dc6d40312ca4b25929eb52df11ecd501f2ca589cbfe450eb4b",
+    "neighbor/index.html": "258429d0e2a78dbeae50d28458f6f7aeae3a97a518344aebc8c06c17f4fe29ea",
+    "score/index.html": "adabf99abc1024a447484af1012975399bf5be7e61d084d6b9903b0e2416e0d8",
+    "life/index.html": "192da909e603efb3ad3468618051b11fea61bb905d64bfd373b38892d37bebcd",
+    "life/thank-you.html": "b80812417206c0c5a53400812235a9f36c226ba2744ef749b0ca3bde977a8acc",
+    "auto-bundle/index.html": "443414856f544384693586c44131dfe5c1fbec4bede175e1d235e977ba7753b8",
+    "auto-bundle/thank-you.html": "a0c4dc007e467b67129c23e5c089e0eb4834d5949da126fcea1366c53dd756ba",
+    "local/index.html": "ac3eb2ac43111577e608d848d8d60df8de8b1bd18851570121a3791fc7bb4073",
+    "buyer/index.html": "0d850bd24cea7ba821cf6ae935efa41e339d3674af8496697b4f9680f2146ab4",
+    "buyer/thank-you.html": "0a0c502be5dd53f27a5e1e5c40a16e1906d8e0e74f4946f5a2b99d06acc2e4b8",
+    "local/join/index.html": "42fa0012cf60b2b3e9293dcaff2967e119d09e842fe9c1539e4ee012b14ff587",
+    "local/join/thank-you.html": "18bc7ac0d81a36e6d0441440653b3033e69ed6d4d94a3373a3bee873d3c74fd3",
+    "local/detail/index.html": "a409e4d9a6d07e61fb4cc557c0885b36e3be602786eeb9d3e29f8be017a32a61",
+    "qa/fixtures/coveragefit-v3.20.7/transition.html": "2d79c7da971db3e4e5d52c7df67ff62982e9f3880f4408ec5779003f5e61f17b",
+    "qa/fixtures/coveragefit-v3.20.7/home.html": "7b727d1f3da5d7457f568829ad45177a1fce4329dd246d55caeab652959aee26"
+  },
+  "protected_sha256": {
+    "_worker.js": "fff94d29593f23a15765e66b6627e0339480e0ca394ad86086b06026392d2690",
+    "_routes.json": "3568f8f7108595e37ae0da752971d749b2d498ef713ac1b4b302c937a73495d6",
+    "CAMPAIGN_ENTRY_REGISTRY.json": "6367c616cceb5afed7f58fe86f131b3ab1506a006c156412e714eb077b0e82b7",
+    "shared/campaign-entry-registry.js": "7e04e758092b44c6c4eff2017671c520ee3dc7bb020ed33bd38a83db3735b843",
+    "shared/campaign-entry.js": "f12cfefd5a703ba6a02defc56a7ff674ff668701a818b675f16d96e86f139a84",
+    "shared/script.js": "5a5f19a43d237e44b9599fbd6536b228b0e71682cfe5d22a7b77fcdbd3acf6d7",
+    "shared/post-lead-engagement.js": "1aae0ff708988296d803b4fa85fe09d7bae182a0bab59b0a4f34ca91445db443",
+    "shared/coveragefit-invitation.js": "12a3d449da1d176c9fcb16efbb0e344e942659b6c3697cef1be2500f4873217e",
+    "shared/coveragefit-launch.js": "0656746d83b8b54f5b322cd530e9150a9b2fe5274ae865b4808919ccd62191b9",
+    "shared/config.js": "3184a565b13546c556e0183e392b0ff37bd8884a348848565707a23ba8c090c8",
+    "life/index.html": "192da909e603efb3ad3468618051b11fea61bb905d64bfd373b38892d37bebcd",
+    "life/thank-you.html": "b80812417206c0c5a53400812235a9f36c226ba2744ef749b0ca3bde977a8acc",
+    "life-ops/index.html": "a2e8a1c9f9fa0535fdcdb99ca76c8770c3ca055401fb109d6671f1e3b083fb6b"
+  }
+}
