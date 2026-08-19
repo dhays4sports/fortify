@@ -1,0 +1,719 @@
+{
+  "sprint": "408-UI-4.7",
+  "suite": "source_behavior_contract",
+  "total": 142,
+  "passed": 142,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "sprint doc exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contract exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "editorial completion css exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "editorial workflow css exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token 408-UI-4.7 \u2014 Relationship + Completion Editorial Convergence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token .post-lead-engagement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token .coveragefit-invitation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token ui47-completion-editorial",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token ui47-contact-editorial",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token ui47-handoff-editorial",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token ui47-score-editorial",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token ui47-utility-editorial",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token ui47-legal-editorial",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token prefers-reduced-motion",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token forced-colors:active",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html workflow stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html legacy relationship layer removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html sprint data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html workflow stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html legacy relationship layer removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html sprint data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html workflow stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html legacy relationship layer removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html sprint data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html workflow stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html legacy relationship layer removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html sprint data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html workflow stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html legacy relationship layer removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html sprint data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html workflow stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html legacy relationship layer removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html sprint data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html workflow stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html legacy relationship layer removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html sprint data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html direct Dylan sms",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html direct Dylan call",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html direct Dylan sms",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html direct Dylan call",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html direct Dylan sms",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html direct Dylan call",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html direct Dylan sms",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html direct Dylan call",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html direct Dylan sms",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html direct Dylan call",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html direct Dylan sms",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html direct Dylan call",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html body marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html direct Dylan sms",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html direct Dylan call",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html request received truth",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html no response guarantee preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html underwriting caveat",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html Local independence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html request received truth",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html no response guarantee preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html underwriting caveat",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html Local independence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html request received truth",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html no response guarantee preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html underwriting caveat",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html Local independence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html request received truth",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html no response guarantee preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html underwriting caveat",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html Local independence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html request received truth",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html no response guarantee preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html underwriting caveat",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html Local independence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html request received truth",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html no response guarantee preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html underwriting caveat",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html Local independence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer receipt canonical H1 preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer no response guarantee preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer Local independence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor CoverageFit destination",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor no PII disclosure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score Coverage Review identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score no generic quote",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_worker.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_routes.json exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/post-lead-engagement.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/coveragefit-invitation.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/coveragefit-launch.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/referral-bridge.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/local-attribution.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/local-join.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/local-merchant.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/life-secure-submit.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/life-intake.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/buyer-flow.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/campaign-entry-registry.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life-ops/index.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/index.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/thank-you.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "roadmap 4.7 complete",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "roadmap next 4.8",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

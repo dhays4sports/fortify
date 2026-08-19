@@ -1,0 +1,565 @@
+{
+  "sprint": "408-UI-4.7",
+  "suite": "relationship_completion_editorial_browser",
+  "total": 110,
+  "passed": 110,
+  "failed": 0,
+  "viewports": [
+    "320x820",
+    "390x844",
+    "768x1024",
+    "1440x1000"
+  ],
+  "checks": [
+    {
+      "name": "home/thank-you.html-phone320 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html-phone320 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html-phone320 no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "buyer/thank-you.html-phone320 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html-phone320 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html-phone320 no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "contact/index.html-phone320 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html-phone320 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html-phone320 no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "neighbor/index.html-phone320 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html-phone320 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html-phone320 no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "score/index.html-phone320 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html-phone320 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html-phone320 no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "404.html-phone320 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html-phone320 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html-phone320 no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "local/join/thank-you.html-phone320 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html-phone320 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html-phone320 no overflow",
+      "passed": true,
+      "detail": "{'w': 320, 'sw': 320, 'bw': 320}"
+    },
+    {
+      "name": "home/thank-you.html-phone390 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html-phone390 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html-phone390 no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "buyer/thank-you.html-phone390 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html-phone390 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html-phone390 no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "contact/index.html-phone390 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html-phone390 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html-phone390 no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "neighbor/index.html-phone390 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html-phone390 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html-phone390 no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "score/index.html-phone390 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html-phone390 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html-phone390 no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "404.html-phone390 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html-phone390 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html-phone390 no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "local/join/thank-you.html-phone390 marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html-phone390 surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html-phone390 no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    },
+    {
+      "name": "home/thank-you.html-tablet marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html-tablet surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "buyer/thank-you.html-tablet marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html-tablet surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "contact/index.html-tablet marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html-tablet surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "neighbor/index.html-tablet marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html-tablet surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "score/index.html-tablet marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html-tablet surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "404.html-tablet marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html-tablet surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "local/join/thank-you.html-tablet marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html-tablet surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html-tablet no overflow",
+      "passed": true,
+      "detail": "{'w': 768, 'sw': 768, 'bw': 768}"
+    },
+    {
+      "name": "home/thank-you.html-desktop marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html-desktop surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "buyer/thank-you.html-desktop marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html-desktop surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "contact/index.html-desktop marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html-desktop surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "neighbor/index.html-desktop marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html-desktop surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "score/index.html-desktop marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html-desktop surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "404.html-desktop marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html-desktop surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "local/join/thank-you.html-desktop marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html-desktop surface visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html-desktop no overflow",
+      "passed": true,
+      "detail": "{'w': 1440, 'sw': 1440, 'bw': 1440}"
+    },
+    {
+      "name": "receipt desktop two-column",
+      "passed": true,
+      "detail": "588.797px 435.203px"
+    },
+    {
+      "name": "receipt Local full width",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "receipt primary visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "receipt primary target",
+      "passed": true,
+      "detail": "{'x': 310.40625, 'y': 559, 'width': 119.78125, 'height': 50}"
+    },
+    {
+      "name": "receipt phone one-column",
+      "passed": true,
+      "detail": "366px"
+    },
+    {
+      "name": "contact desktop two-zone",
+      "passed": true,
+      "detail": "605.812px 436.188px"
+    },
+    {
+      "name": "contact sms visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact sms target",
+      "passed": true,
+      "detail": "{'x': 873.8125, 'y': 408.71875, 'width': 374.1875, 'height': 86.03125}"
+    },
+    {
+      "name": "contact call visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact call target",
+      "passed": true,
+      "detail": "{'x': 873.8125, 'y': 505.75, 'width': 374.1875, 'height': 82}"
+    },
+    {
+      "name": "contact email visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact email target",
+      "passed": true,
+      "detail": "{'x': 873.8125, 'y': 598.75, 'width': 374.1875, 'height': 82}"
+    },
+    {
+      "name": "contact phone one-zone",
+      "passed": true,
+      "detail": "336px"
+    },
+    {
+      "name": "neighbor three progress steps",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor continue visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor continue target",
+      "passed": true,
+      "detail": "{'x': 12, 'y': 791.890625, 'width': 125.171875, 'height': 44}"
+    },
+    {
+      "name": "neighbor no PII visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score gauge visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score editorial cards flat",
+      "passed": true,
+      "detail": "0.0"
+    },
+    {
+      "name": "score primary visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score primary target",
+      "passed": true,
+      "detail": "{'x': 86.390625, 'y': 711.671875, 'width': 319.109375, 'height': 64}"
+    },
+    {
+      "name": "postlead panel instantiated",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "coveragefit panel instantiated",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "dynamic progress editorial accent",
+      "passed": true,
+      "detail": "rgb(168, 111, 0)"
+    },
+    {
+      "name": "CoverageFit options editorial flat",
+      "passed": true,
+      "detail": "0.0"
+    },
+    {
+      "name": "dynamic phone no overflow",
+      "passed": true,
+      "detail": "{'w': 390, 'sw': 390, 'bw': 390}"
+    }
+  ]
+}

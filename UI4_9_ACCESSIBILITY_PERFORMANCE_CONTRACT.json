@@ -1,0 +1,44 @@
+{
+  "sprint": "408-UI-4.9",
+  "name": "Accessibility + Performance Certification",
+  "scope": "25 non-Life public HTML surfaces",
+  "accessibility": {
+    "standard_orientation": "WCAG 2.2 AA-oriented project checks",
+    "headings": "one H1; no forward heading-level skips",
+    "images": "explicit alt policy plus intrinsic width/height",
+    "keyboard": "skip navigation and visible focus",
+    "contrast": {
+      "small_gold_text": "#8e5f00 on white >= 4.5:1",
+      "large_gold_accent": "#a86f00 on white >= 3:1",
+      "header_gold_on_navy": "#ffd37b on #031a3d >= 4.5:1"
+    },
+    "reduced_motion": true,
+    "forced_colors": true,
+    "reflow": "320 CSS px / 400%-equivalent project proxy"
+  },
+  "performance": {
+    "responsive_editorial_assets": true,
+    "intrinsic_image_reservation": true,
+    "hero_fetch_priority": "maximum one high-priority image per page; exactly one on image-led primary routes",
+    "primary_route_uncompressed_css_js_bytes": {
+      "default_max": 307200,
+      "home_grandfathered_max": 337920,
+      "home_current": 330967,
+      "justification": "Post-UI-3.13 HOME/FLOW/UI layers are additive and behavior-frozen; 4.9 adds no JavaScript."
+    },
+    "historical_ui3_13_asset_suite": {
+      "result": "98/99",
+      "sole_exception": "home/index.html exceeds historical 300 KiB CSS+JS ceiling",
+      "status": "documented accepted exception under 408-UI-4.9 acceptance criteria"
+    }
+  },
+  "protected_boundaries": [
+    "forms",
+    "Workers and routing",
+    "campaign attribution",
+    "CoverageFit behavior",
+    "Local runtime",
+    "Life and Life Ops",
+    "pricing/eligibility/underwriting logic"
+  ]
+}

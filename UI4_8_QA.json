@@ -1,0 +1,814 @@
+{
+  "sprint": "408-UI-4.8",
+  "suite": "responsive_source_contract",
+  "total": 161,
+  "passed": 161,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "responsive css exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token 408-UI-4.8 \u2014 Mobile + Responsive Editorial Pass",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token env(safe-area-inset-top",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token env(safe-area-inset-bottom",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token font-size:16px!important",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token min-height:44px",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token @media(max-width:680px)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token @media(max-width:420px)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token @media(max-width:359px)",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token max-height:560px",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token orientation:landscape",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token professional-program-switcher",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token overflow-x:auto",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token ui47-score-editorial",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html viewport fit",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/index.html excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/thank-you.html excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life-ops/index.html excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_worker.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_routes.json exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_headers exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_redirects exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/campaign-entry-registry.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/config.js exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life-ops/index.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/index.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/thank-you.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "roadmap 4.8 complete",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "roadmap next 4.9",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

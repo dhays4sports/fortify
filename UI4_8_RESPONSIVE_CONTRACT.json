@@ -1,0 +1,28 @@
+{
+  "sprint": "408-UI-4.8",
+  "name": "Mobile + Responsive Editorial Pass",
+  "input_baseline": "408-UI-4.7 — Relationship + Completion Editorial Convergence",
+  "presentation_asset": "shared/editorial-responsive.css",
+  "non_life_public_surfaces": 25,
+  "viewports": ["320x820", "375x812", "390x844", "768x1024", "844x390", "1024x768"],
+  "requirements": {
+    "horizontal_overflow": false,
+    "minimum_touch_target_px": 44,
+    "mobile_form_font_px": 16,
+    "viewport_fit_cover": true,
+    "safe_area_header_footer": true,
+    "short_landscape": true,
+    "professional_switcher_internal_scroll": true,
+    "score_fixed_cta_content_reserve": true
+  },
+  "protected": [
+    "forms / consent / endpoints",
+    "post-lead and CoverageFit behavior",
+    "Campaign Entry Registry / attribution / routing",
+    "Local behavior and data",
+    "Workers / routes / 408-INFRA-1.1",
+    "pricing / coverage / eligibility / underwriting",
+    "Life / Life Ops"
+  ],
+  "next": "408-UI-4.9 — Accessibility + Performance Certification"
+}

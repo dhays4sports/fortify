@@ -1,0 +1,27 @@
+{
+  "sprint": "408-UI-4.8",
+  "input_baseline": "408-UI-4.7 \u2014 Relationship + Completion Editorial Convergence",
+  "forms": {
+    "home/index.html": "27c505b47c2dc7c396b89efa6a7e6dce0801fe2aa3d27fb241347715e8fab5aa",
+    "auto-bundle/index.html": "10213f6a4285ec8bc364a8621ced610fff9068f320b2f4e87857589c942150c9",
+    "buyer/index.html": "829acb3a2a1076fee970b4b6150d8516eb5357dd772e3af45ff3685c784562cc",
+    "healthcare/index.html": "a803a11cf4c94225697753b4e516806ca65bdb932704bb48a7f2f87ed63b3a0a",
+    "teachers/index.html": "22e7671d41e97353160e5ef546c4cad675ad3f338fd2865ce6cc28eb8ad94b2b",
+    "tech/index.html": "2d27d632c737146159f6e0ad505158be2c8ef7444db6b8a757807297107f0737",
+    "engineers/index.html": "6f4ecfe80528c3fe4b1abadc7677264a718c6e5708c3b42b257ebf2f31dc1031",
+    "local/join/index.html": "879f448bbcbca74fefeebe1dcebb58cd3c82cf91eb0faa133f4c4522b209d28c"
+  },
+  "protected_files": {
+    "_worker.js": "fff94d29593f23a15765e66b6627e0339480e0ca394ad86086b06026392d2690",
+    "_routes.json": "3568f8f7108595e37ae0da752971d749b2d498ef713ac1b4b302c937a73495d6",
+    "_headers": "d678d3561f183941ec4f8b7228536800d734ff249c15fd6836752eb938210790",
+    "_redirects": "14f8a3d3402a93f9828902231354cea99f06a6e3b066a918cdd0b39285c1ec1b",
+    "shared/campaign-entry-registry.js": "7e04e758092b44c6c4eff2017671c520ee3dc7bb020ed33bd38a83db3735b843",
+    "shared/config.js": "3184a565b13546c556e0183e392b0ff37bd8884a348848565707a23ba8c090c8"
+  },
+  "life_files": {
+    "life-ops/index.html": "a2e8a1c9f9fa0535fdcdb99ca76c8770c3ca055401fb109d6671f1e3b083fb6b",
+    "life/index.html": "192da909e603efb3ad3468618051b11fea61bb905d64bfd373b38892d37bebcd",
+    "life/thank-you.html": "b80812417206c0c5a53400812235a9f36c226ba2744ef749b0ca3bde977a8acc"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "sprint": "408-UI-4.10",
+  "name": "Functional Regression + Production Certification",
+  "status": "pass",
+  "current_release_gates": [
+    {
+      "suite": "408-UI-4.9 source",
+      "result": "374/374",
+      "status": "pass"
+    },
+    {
+      "suite": "408-UI-4.9 accessibility/reflow browser",
+      "result": "62/62",
+      "status": "pass"
+    },
+    {
+      "suite": "408-UI-4.9 responsive asset selection",
+      "result": "31/31",
+      "status": "pass"
+    },
+    {
+      "suite": "408-UI-4.8 source",
+      "result": "161/161",
+      "status": "pass"
+    },
+    {
+      "suite": "408-UI-4.8 browser",
+      "result": "256/256",
+      "status": "pass"
+    },
+    {
+      "suite": "408-UI-4.7 source",
+      "result": "142/142",
+      "status": "pass"
+    },
+    {
+      "suite": "408-UI-4.7 browser",
+      "result": "110/110",
+      "status": "pass"
+    },
+    {
+      "suite": "UI-3.12 cross-journey E2E",
+      "result": "59/59",
+      "status": "pass"
+    },
+    {
+      "suite": "static regression",
+      "result": "296/296",
+      "status": "pass"
+    },
+    {
+      "suite": "production metadata",
+      "result": "216/216",
+      "status": "pass"
+    },
+    {
+      "suite": "internal links/assets",
+      "result": "856/856; 0 broken",
+      "status": "pass"
+    },
+    {
+      "suite": "runtime JavaScript syntax",
+      "result": "44/44",
+      "status": "pass"
+    },
+    {
+      "suite": "INFRA-1.1 function/static boundary",
+      "result": "22/22",
+      "status": "pass"
+    },
+    {
+      "suite": "INFRA-1.1 exact preservation",
+      "result": "4/4",
+      "status": "pass"
+    },
+    {
+      "suite": "Home Advanced Mode routing",
+      "result": "16/16",
+      "status": "pass"
+    },
+    {
+      "suite": "Home deep-route assets",
+      "result": "12/12",
+      "status": "pass"
+    },
+    {
+      "suite": "Advanced Mode redirect-loop hotfix",
+      "result": "10/10",
+      "status": "pass"
+    },
+    {
+      "suite": "Home hidden-required submit",
+      "result": "12/12",
+      "status": "pass"
+    },
+    {
+      "suite": "Local source contract",
+      "result": "86/86",
+      "status": "pass"
+    },
+    {
+      "suite": "Local Merchant Join Worker",
+      "result": "20/20",
+      "status": "pass"
+    },
+    {
+      "suite": "Local Attribution Worker",
+      "result": "29/29",
+      "status": "pass"
+    },
+    {
+      "suite": "Life browser behavior",
+      "result": "19/19",
+      "status": "pass"
+    },
+    {
+      "suite": "FLOW-2.4 explicit invitation runtime",
+      "result": "5/5",
+      "status": "pass"
+    },
+    {
+      "suite": "FLOW-2.5 runtime",
+      "result": "exit 0",
+      "status": "pass"
+    },
+    {
+      "suite": "UI-4.3 campaign-entry contract",
+      "result": "10/10",
+      "status": "pass"
+    }
+  ],
+  "superseded_historical_harnesses": [
+    {
+      "suite": "UI-3.13 asset/performance",
+      "result": "98/99",
+      "release_gate": false,
+      "reason": "single pre-UI-4 Home 300 KiB ceiling assertion; UI-4.9 certified current 330 KiB ceiling, Home 323.2 KiB"
+    },
+    {
+      "suite": "UI-3.13 browser",
+      "result": "743/749",
+      "release_gate": false,
+      "reason": "six Homepage checks query retired pre-UI-4 picture-wrapper selector; current UI-4.8/4.9 browser suites certify replacement composition"
+    },
+    {
+      "suite": "UI-4.6 browser",
+      "result": "harness exception",
+      "release_gate": false,
+      "reason": "historical BeautifulSoup helper crashes while iterating a decomposed link node; current UI-4.8/4.9 browser + E2E cover Local"
+    },
+    {
+      "suite": "LIFE-1.7 source",
+      "result": "obsolete VERSION whitelist",
+      "release_gate": false,
+      "reason": "rejects later UI top-level VERSION before behavior checks; replaced by 14/14 exact Life freeze + 19/19 browser"
+    },
+    {
+      "suite": "FLOW/CF-RPT/Buyer historical source tests",
+      "result": "not applicable",
+      "release_gate": false,
+      "reason": "historical VERSION whitelists and/or external adjacent CoverageFit repository dependency; current sender behavior covered by exact freeze + runtime/E2E"
+    }
+  ],
+  "deployment_activation": "pending_post_deploy_smoke",
+  "runbook": "UI4_10_DEPLOYMENT_SMOKE_RUNBOOK.md"
+}

@@ -1,0 +1,58 @@
+{
+  "sprint": "408-UI-4.8",
+  "name": "Mobile + Responsive Editorial Pass",
+  "status": "COMPLETE / ROOT-DEPLOYABLE",
+  "date": "2026-08-19",
+  "input_baseline": "408-UI-4.7 — Relationship + Completion Editorial Convergence",
+  "next": "408-UI-4.9 — Accessibility + Performance Certification",
+  "customer_facing_changes": [
+    "late-cascade mobile/responsive editorial layer on 25 non-Life public surfaces",
+    "safe-area-aware mobile header/footer geometry",
+    "compact phone hero photography and action-panel spacing",
+    "phone relationship-band and editorial-column collapse",
+    "44px+ mobile touch targets and 16px form controls",
+    "virtual-keyboard scroll margins",
+    "Professional Programs internal horizontal switcher scrolling",
+    "320px and short-landscape handling",
+    "Score fixed-mobile-CTA content reserve"
+  ],
+  "protected": [
+    "protected forms / required semantics / consent / endpoints",
+    "post-lead state and CoverageFit behavior",
+    "Campaign Entry Registry / source / campaign / partner attribution",
+    "Home / Bundle / Buyer branching",
+    "occupational eligibility / discount determination",
+    "Local catalog / redemption / attribution / join behavior",
+    "Workers / _routes.json / _headers / _redirects / 408-INFRA-1.1",
+    "pricing / coverage / eligibility / underwriting",
+    "Life / Life Ops"
+  ],
+  "qa": {
+    "ui4_8_source": {"passed": 161, "total": 161},
+    "ui4_8_browser": {"passed": 256, "total": 256},
+    "ui4_7_source_regression": {"passed": 142, "total": 142},
+    "ui4_7_browser_regression": {"passed": 110, "total": 110},
+    "ui3_12_e2e": {"passed": 59, "total": 59},
+    "static_regression": {"passed": 296, "total": 296},
+    "infra_boundary": {"passed": 22, "total": 22},
+    "infra_exact_preservation": {"passed": 4, "total": 4},
+    "home_hidden_required": {"passed": 12, "total": 12},
+    "home_routing": {"passed": 16, "total": 16},
+    "local_attribution_worker": {"passed": 29, "total": 29},
+    "metadata": {"passed": 216, "total": 216},
+    "javascript_syntax": {"passed": 44, "total": 44},
+    "internal_links": {"checked": 831, "broken": 0}
+  },
+  "responsive_viewports": [
+    "320x820",
+    "375x812",
+    "390x844",
+    "768x1024",
+    "844x390",
+    "1024x768"
+  ],
+  "new_assets": {
+    "shared/editorial-responsive.css": "2e740bc374734e58eab3917e53804d5916ff221739fa5dc604a47a243b56765a"
+  },
+  "local_operational_status": "LOCAL-1.10 three-merchant pilot NO-GO remains unchanged pending real Auto + Home merchants."
+}

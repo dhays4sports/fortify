@@ -1,0 +1,123 @@
+{
+  "sprint": "408-UI-4.7",
+  "name": "Relationship + Completion Editorial Convergence",
+  "status": "COMPLETE / ROOT-DEPLOYABLE",
+  "date": "2026-08-19",
+  "input_baseline": "408-UI-4.6 \u2014 Local Community Convergence",
+  "next": "408-UI-4.8 \u2014 Mobile + Responsive Editorial Pass",
+  "customer_facing_changes": [
+    "dynamic post-lead and optional CoverageFit presentation",
+    "non-Life insurance/professional receipt presentation",
+    "Contact presentation",
+    "Neighbor CoverageFit handoff presentation",
+    "Home Protection Score explanatory presentation",
+    "404/legal/recovery/empty-state presentation",
+    "Local merchant-join completion presentation"
+  ],
+  "protected": [
+    "protected forms and consent",
+    "post-lead state/event semantics",
+    "CoverageFit explicit opt-in/defer/back",
+    "Campaign Entry Registry and attribution",
+    "Local merchant data/redemption/attribution/join behavior",
+    "Workers and _routes.json",
+    "408-INFRA-1.1",
+    "Life / Life Ops",
+    "pricing / eligibility / underwriting"
+  ],
+  "qa": {
+    "ui4_7_source": {
+      "passed": 142,
+      "total": 142
+    },
+    "ui4_7_browser": {
+      "passed": 110,
+      "total": 110
+    },
+    "ui3_12_e2e": {
+      "passed": 59,
+      "total": 59
+    },
+    "static_regression": {
+      "passed": 296,
+      "total": 296
+    },
+    "infra_boundary": {
+      "passed": 22,
+      "total": 22
+    },
+    "infra_exact_preservation": {
+      "passed": 4,
+      "total": 4
+    },
+    "home_hidden_required": {
+      "passed": 12,
+      "total": 12
+    },
+    "home_routing": {
+      "passed": 16,
+      "total": 16
+    },
+    "merchant_join_worker": {
+      "passed": 20,
+      "total": 20
+    },
+    "local_attribution_worker": {
+      "passed": 29,
+      "total": 29
+    },
+    "asset_performance": {
+      "passed": 99,
+      "total": 99
+    },
+    "metadata": {
+      "passed": 216,
+      "total": 216
+    },
+    "javascript_syntax": {
+      "passed": 44,
+      "total": 44
+    },
+    "internal_links": {
+      "checked": 806,
+      "broken": 0
+    },
+    "campaign_accessibility_delta": {
+      "passed": 56,
+      "total": 56
+    },
+    "homepage_4_2_browser": {
+      "passed": 129,
+      "total": 129
+    },
+    "home_bundle_4_3_browser": {
+      "passed": 174,
+      "total": 174
+    },
+    "campaign_continuity": {
+      "passed": 10,
+      "total": 10
+    },
+    "buyer_4_4_browser": {
+      "passed": 111,
+      "total": 111
+    },
+    "professional_4_5_browser": {
+      "passed": 388,
+      "total": 388
+    },
+    "local_4_6_source": {
+      "passed": 86,
+      "total": 86
+    },
+    "local_4_6_browser": {
+      "passed": 114,
+      "total": 114
+    }
+  },
+  "new_assets": {
+    "shared/editorial-workflow.css": "02d1cbea2df551331c014e7a1672db4c285249478ef37b2492ac5bdc1124a846",
+    "shared/editorial-completion.css": "59fdcad51a9a402d04e8dd17cfdd00838afe7a415998d7214629e92294c24e52"
+  },
+  "local_operational_status": "LOCAL-1.10 three-merchant pilot NO-GO remains unchanged pending real Auto + Home merchants."
+}

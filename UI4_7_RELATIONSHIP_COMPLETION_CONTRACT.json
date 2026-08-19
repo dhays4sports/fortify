@@ -1,0 +1,47 @@
+{
+  "sprint": "408-UI-4.7",
+  "name": "Relationship + Completion Editorial Convergence",
+  "input_baseline": "408-UI-4.6",
+  "presentation_layer": "shared/editorial-completion.css",
+  "surfaces": {
+    "dynamic": [
+      "home",
+      "home+auto",
+      "buyer",
+      "healthcare",
+      "teachers",
+      "technology",
+      "engineers"
+    ],
+    "receipts": [
+      "home",
+      "home+auto",
+      "buyer",
+      "healthcare",
+      "teachers",
+      "technology",
+      "engineers"
+    ],
+    "utility": [
+      "contact",
+      "neighbor handoff",
+      "score",
+      "404",
+      "privacy",
+      "terms",
+      "local merchant join receipt"
+    ]
+  },
+  "protected": [
+    "forms and consent",
+    "post-lead state/event contracts",
+    "CoverageFit explicit opt-in",
+    "Campaign Entry Registry and attribution",
+    "Local merchant runtime",
+    "Workers and _routes.json",
+    "408-INFRA-1.1",
+    "Life and Life Ops",
+    "pricing/eligibility/underwriting"
+  ],
+  "next": "408-UI-4.8 \u2014 Mobile + Responsive Editorial Pass"
+}

@@ -1,0 +1,1879 @@
+{
+  "sprint": "408-UI-4.9",
+  "suite": "accessibility_performance_source_contract",
+  "total": 374,
+  "passed": 374,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "4.9 css exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token 408-UI-4.9 \u2014 Accessibility + Performance Certification",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token focus-visible",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token --ui49-gold-text:#8e5f00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token prefers-reduced-motion:reduce",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token forced-colors:active",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token max-width:360px",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token scroll-margin-top",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "css token overflow-wrap:break-word",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "small gold text AA on white",
+      "passed": true,
+      "detail": "5.55:1"
+    },
+    {
+      "name": "large editorial gold AA-large on white",
+      "passed": true,
+      "detail": "4.25:1"
+    },
+    {
+      "name": "header gold on navy AA",
+      "passed": true,
+      "detail": "12.19:1"
+    },
+    {
+      "name": "404.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html exactly one h1",
+      "passed": true,
+      "detail": "[1]"
+    },
+    {
+      "name": "404.html no heading jumps",
+      "passed": true,
+      "detail": "[1]"
+    },
+    {
+      "name": "404.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "404.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "404.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "404.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "404.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "auto-bundle/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "auto-bundle/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "auto-bundle/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "auto-bundle/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "auto-bundle/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['../shared/assets/auto-bundle-editorial.jpg']"
+    },
+    {
+      "name": "auto-bundle/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "auto-bundle/thank-you.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "auto-bundle/thank-you.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "auto-bundle/thank-you.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "auto-bundle/thank-you.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/thank-you.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "auto-bundle/thank-you.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "auto-bundle/thank-you.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "buyer/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2]"
+    },
+    {
+      "name": "buyer/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2]"
+    },
+    {
+      "name": "buyer/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "buyer/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "buyer/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['../shared/assets/buyer-home.jpg']"
+    },
+    {
+      "name": "buyer/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "buyer/thank-you.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "buyer/thank-you.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "buyer/thank-you.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "buyer/thank-you.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/thank-you.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "buyer/thank-you.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "buyer/thank-you.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "contact/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2]"
+    },
+    {
+      "name": "contact/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2]"
+    },
+    {
+      "name": "contact/index.html skip target",
+      "passed": true,
+      "detail": "#contact-main"
+    },
+    {
+      "name": "contact/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "contact/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "contact/index.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "contact/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "engineers/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "engineers/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "engineers/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "engineers/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "engineers/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['../shared/images/ui45-professional-engineers.webp']"
+    },
+    {
+      "name": "engineers/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "engineers/thank-you.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "engineers/thank-you.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "engineers/thank-you.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "engineers/thank-you.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/thank-you.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "engineers/thank-you.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "engineers/thank-you.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "healthcare/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "healthcare/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "healthcare/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "healthcare/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "healthcare/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['../shared/images/ui45-professional-healthcare.webp']"
+    },
+    {
+      "name": "healthcare/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "healthcare/thank-you.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "healthcare/thank-you.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "healthcare/thank-you.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "healthcare/thank-you.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/thank-you.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "healthcare/thank-you.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "healthcare/thank-you.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "home/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "home/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "home/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "home/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "home/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['/shared/assets/home.jpg']"
+    },
+    {
+      "name": "home/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "home/thank-you.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "home/thank-you.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "home/thank-you.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "home/thank-you.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/thank-you.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "home/thank-you.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "home/thank-you.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 2, 3, 3, 3, 3, 2, 2, 2]"
+    },
+    {
+      "name": "index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 2, 3, 3, 3, 3, 2, 2, 2]"
+    },
+    {
+      "name": "index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "index.html at most one high priority image",
+      "passed": true,
+      "detail": "['/shared/assets/home.jpg']"
+    },
+    {
+      "name": "index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/detail/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1]"
+    },
+    {
+      "name": "local/detail/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1]"
+    },
+    {
+      "name": "local/detail/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "local/detail/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/detail/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/detail/index.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/detail/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 3, 2, 2, 2, 2, 2, 3, 3, 3, 2, 2]"
+    },
+    {
+      "name": "local/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 3, 2, 2, 2, 2, 2, 3, 3, 3, 2, 2]"
+    },
+    {
+      "name": "local/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "local/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['/shared/images/local-community-context.webp']"
+    },
+    {
+      "name": "local/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/join/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "local/join/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "local/join/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "local/join/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/join/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['/shared/images/local-community-context.webp']"
+    },
+    {
+      "name": "local/join/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/join/thank-you.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2]"
+    },
+    {
+      "name": "local/join/thank-you.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2]"
+    },
+    {
+      "name": "local/join/thank-you.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "local/join/thank-you.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/thank-you.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/join/thank-you.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "local/join/thank-you.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "neighbor/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1]"
+    },
+    {
+      "name": "neighbor/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1]"
+    },
+    {
+      "name": "neighbor/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "neighbor/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "neighbor/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "neighbor/index.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "neighbor/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "privacy.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2]"
+    },
+    {
+      "name": "privacy.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2]"
+    },
+    {
+      "name": "privacy.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "privacy.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "privacy.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "privacy.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "privacy.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "score/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 3, 3, 3, 2, 3, 3, 3, 3, 2, 2, 2]"
+    },
+    {
+      "name": "score/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 3, 3, 3, 2, 3, 3, 3, 3, 2, 2, 2]"
+    },
+    {
+      "name": "score/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "score/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "score/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "score/index.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "score/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "teachers/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "teachers/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "teachers/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "teachers/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "teachers/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['../shared/images/ui45-professional-teachers.webp']"
+    },
+    {
+      "name": "teachers/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "teachers/thank-you.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "teachers/thank-you.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "teachers/thank-you.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "teachers/thank-you.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/thank-you.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "teachers/thank-you.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "teachers/thank-you.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "tech/index.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "tech/index.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2, 2, 2, 3, 3, 3, 2]"
+    },
+    {
+      "name": "tech/index.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "tech/index.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "tech/index.html at most one high priority image",
+      "passed": true,
+      "detail": "['../shared/images/ui45-professional-tech.webp']"
+    },
+    {
+      "name": "tech/index.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "tech/thank-you.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html exactly one h1",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "tech/thank-you.html no heading jumps",
+      "passed": true,
+      "detail": "[1, 2, 2]"
+    },
+    {
+      "name": "tech/thank-you.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "tech/thank-you.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/thank-you.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "tech/thank-you.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "tech/thank-you.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "terms.html 4.9 stylesheet",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html 4.9 meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html 4.9 body class",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html 4.9 body data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html exactly one h1",
+      "passed": true,
+      "detail": "[1]"
+    },
+    {
+      "name": "terms.html no heading jumps",
+      "passed": true,
+      "detail": "[1]"
+    },
+    {
+      "name": "terms.html skip target",
+      "passed": true,
+      "detail": "#main-content"
+    },
+    {
+      "name": "terms.html all images alt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "terms.html all images intrinsic size",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "terms.html at most one high priority image",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "terms.html controls named",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "index.html responsive hero small",
+      "passed": true,
+      "detail": "shared/assets/408-farmers-logo-506.webp 506w, shared/assets/408-farmers-logo.png 1014w  /shared/assets/home-420.webp 420w, /shared/assets/home-653.webp 653w   shared/images/dylan-headshot-320.webp 320w, shared/images/dylan-headshot-640.webp 640w  shared/assets/farmers-authorized-agency-320.webp 320w  shared/assets/408-farmers-logo-white-506.webp 506w, shared/assets/408-farmers-logo-white.png 1014w"
+    },
+    {
+      "name": "index.html responsive hero large",
+      "passed": true,
+      "detail": "shared/assets/408-farmers-logo-506.webp 506w, shared/assets/408-farmers-logo.png 1014w  /shared/assets/home-420.webp 420w, /shared/assets/home-653.webp 653w   shared/images/dylan-headshot-320.webp 320w, shared/images/dylan-headshot-640.webp 640w  shared/assets/farmers-authorized-agency-320.webp 320w  shared/assets/408-farmers-logo-white-506.webp 506w, shared/assets/408-farmers-logo-white.png 1014w"
+    },
+    {
+      "name": "index.html exactly one hero high",
+      "passed": true,
+      "detail": "['/shared/assets/home.jpg']"
+    },
+    {
+      "name": "index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"A well-maintained California home at dusk\" decoding=\"async\" fetchpriority=\"high\" height=\"1254\" src=\"/shared/assets/home.jpg\" width=\"653\"/>"
+    },
+    {
+      "name": "home/index.html responsive hero small",
+      "passed": true,
+      "detail": "/shared/assets/408-farmers-logo-506.webp /shared/assets/408-farmers-logo-506.webp 506w, /shared/assets/408-farmers-logo.png 1014w  /shared/assets/home-420.webp 420w, /shared/assets/home-653.webp 653w   /shared/images/dylan-headshot-160.webp 160w, /shared/images/dylan-headshot-320.webp 320w  /shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "home/index.html responsive hero large",
+      "passed": true,
+      "detail": "/shared/assets/408-farmers-logo-506.webp /shared/assets/408-farmers-logo-506.webp 506w, /shared/assets/408-farmers-logo.png 1014w  /shared/assets/home-420.webp 420w, /shared/assets/home-653.webp 653w   /shared/images/dylan-headshot-160.webp 160w, /shared/images/dylan-headshot-320.webp 320w  /shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "home/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['/shared/assets/home.jpg']"
+    },
+    {
+      "name": "home/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"Modern California home at sunset\" decoding=\"async\" fetchpriority=\"high\" height=\"1254\" src=\"/shared/assets/home.jpg\" width=\"653\"/>"
+    },
+    {
+      "name": "auto-bundle/index.html responsive hero small",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w  ../shared/assets/auto-bundle-editorial-320.webp 320w, ../shared/assets/auto-bundle-editorial.webp 414w    ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "auto-bundle/index.html responsive hero large",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w  ../shared/assets/auto-bundle-editorial-320.webp 320w, ../shared/assets/auto-bundle-editorial.webp 414w    ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "auto-bundle/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['../shared/assets/auto-bundle-editorial.jpg']"
+    },
+    {
+      "name": "auto-bundle/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"Vehicle outside a California residential building with house and car keys in the foreground\" decoding=\"async\" fetchpriority=\"high\" height=\"1492\" src=\"../shared/assets/auto-bundle-editorial.jpg\" width=\"414\"/>"
+    },
+    {
+      "name": "buyer/index.html responsive hero small",
+      "passed": true,
+      "detail": " /shared/assets/buyer-editorial-context-420.webp 420w, /shared/assets/buyer-editorial-context.webp 624w  ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w "
+    },
+    {
+      "name": "buyer/index.html responsive hero large",
+      "passed": true,
+      "detail": " /shared/assets/buyer-editorial-context-420.webp 420w, /shared/assets/buyer-editorial-context.webp 624w  ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w "
+    },
+    {
+      "name": "buyer/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['../shared/assets/buyer-home.jpg']"
+    },
+    {
+      "name": "buyer/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"Illustrative homebuyers holding new-home keys beside moving boxes\" decoding=\"async\" fetchpriority=\"high\" height=\"1244\" src=\"../shared/assets/buyer-home.jpg\" width=\"624\"/>"
+    },
+    {
+      "name": "healthcare/index.html responsive hero small",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w ../shared/images/ui45-professional-healthcare-320.webp 320w, ../shared/images/ui45-professional-healthcare.webp 520w ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "healthcare/index.html responsive hero large",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w ../shared/images/ui45-professional-healthcare-320.webp 320w, ../shared/images/ui45-professional-healthcare.webp 520w ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "healthcare/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['../shared/images/ui45-professional-healthcare.webp']"
+    },
+    {
+      "name": "healthcare/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"Healthcare professional in a clinical setting\" decoding=\"async\" fetchpriority=\"high\" height=\"700\" loading=\"eager\" sizes=\"(max-width: 680px) 320px, 520px\" src=\"../shared/images/ui45-professional-healthcare.webp\" srcset=\"../shared/images/ui45-professional-healthcare-320.webp 320w, ../shared/images/ui45-professional-healthcare.webp 520w\" width=\"520\"/>"
+    },
+    {
+      "name": "teachers/index.html responsive hero small",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w ../shared/images/ui45-professional-teachers-320.webp 320w, ../shared/images/ui45-professional-teachers.webp 520w ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "teachers/index.html responsive hero large",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w ../shared/images/ui45-professional-teachers-320.webp 320w, ../shared/images/ui45-professional-teachers.webp 520w ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "teachers/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['../shared/images/ui45-professional-teachers.webp']"
+    },
+    {
+      "name": "teachers/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"Teacher in a classroom setting\" decoding=\"async\" fetchpriority=\"high\" height=\"700\" loading=\"eager\" sizes=\"(max-width: 680px) 320px, 520px\" src=\"../shared/images/ui45-professional-teachers.webp\" srcset=\"../shared/images/ui45-professional-teachers-320.webp 320w, ../shared/images/ui45-professional-teachers.webp 520w\" width=\"520\"/>"
+    },
+    {
+      "name": "tech/index.html responsive hero small",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w ../shared/images/ui45-professional-tech-320.webp 320w, ../shared/images/ui45-professional-tech.webp 520w ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "tech/index.html responsive hero large",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w ../shared/images/ui45-professional-tech-320.webp 320w, ../shared/images/ui45-professional-tech.webp 520w ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "tech/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['../shared/images/ui45-professional-tech.webp']"
+    },
+    {
+      "name": "tech/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"Technology professional in a modern office\" decoding=\"async\" fetchpriority=\"high\" height=\"700\" loading=\"eager\" sizes=\"(max-width: 680px) 320px, 520px\" src=\"../shared/images/ui45-professional-tech.webp\" srcset=\"../shared/images/ui45-professional-tech-320.webp 320w, ../shared/images/ui45-professional-tech.webp 520w\" width=\"520\"/>"
+    },
+    {
+      "name": "engineers/index.html responsive hero small",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w ../shared/images/ui45-professional-engineers-320.webp 320w, ../shared/images/ui45-professional-engineers.webp 520w ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "engineers/index.html responsive hero large",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w ../shared/images/ui45-professional-engineers-320.webp 320w, ../shared/images/ui45-professional-engineers.webp 520w ../shared/images/dylan-headshot-160.webp 160w, ../shared/images/dylan-headshot-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w  ../shared/assets/farmers-authorized-agency-320.webp 320w "
+    },
+    {
+      "name": "engineers/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['../shared/images/ui45-professional-engineers.webp']"
+    },
+    {
+      "name": "engineers/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"Engineer at a construction site\" decoding=\"async\" fetchpriority=\"high\" height=\"700\" loading=\"eager\" sizes=\"(max-width: 680px) 320px, 520px\" src=\"../shared/images/ui45-professional-engineers.webp\" srcset=\"../shared/images/ui45-professional-engineers-320.webp 320w, ../shared/images/ui45-professional-engineers.webp 520w\" width=\"520\"/>"
+    },
+    {
+      "name": "local/index.html responsive hero small",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w /shared/images/local-community-context-320.webp 320w, /shared/images/local-community-context.webp 425w  ../shared/assets/408-farmers-logo-white-506.webp 506w, ../shared/assets/408-farmers-logo-white.png 1014w"
+    },
+    {
+      "name": "local/index.html responsive hero large",
+      "passed": true,
+      "detail": "../shared/assets/408-farmers-logo-506.webp 506w, ../shared/assets/408-farmers-logo.png 1014w /shared/images/local-community-context-320.webp 320w, /shared/images/local-community-context.webp 425w  ../shared/assets/408-farmers-logo-white-506.webp 506w, ../shared/assets/408-farmers-logo-white.png 1014w"
+    },
+    {
+      "name": "local/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['/shared/images/local-community-context.webp']"
+    },
+    {
+      "name": "local/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"\" decoding=\"async\" fetchpriority=\"high\" height=\"555\" sizes=\"(max-width: 680px) 320px, 425px\" src=\"/shared/images/local-community-context.webp\" srcset=\"/shared/images/local-community-context-320.webp 320w, /shared/images/local-community-context.webp 425w\" width=\"425\"/>"
+    },
+    {
+      "name": "local/join/index.html responsive hero small",
+      "passed": true,
+      "detail": "../../shared/assets/408-farmers-logo-506.webp 506w, ../../shared/assets/408-farmers-logo.png 1014w /shared/images/local-community-context-320.webp 320w, /shared/images/local-community-context.webp 425w  ../../shared/assets/408-farmers-logo-white-506.webp 506w, ../../shared/assets/408-farmers-logo-white.png 1014w"
+    },
+    {
+      "name": "local/join/index.html responsive hero large",
+      "passed": true,
+      "detail": "../../shared/assets/408-farmers-logo-506.webp 506w, ../../shared/assets/408-farmers-logo.png 1014w /shared/images/local-community-context-320.webp 320w, /shared/images/local-community-context.webp 425w  ../../shared/assets/408-farmers-logo-white-506.webp 506w, ../../shared/assets/408-farmers-logo-white.png 1014w"
+    },
+    {
+      "name": "local/join/index.html exactly one hero high",
+      "passed": true,
+      "detail": "['/shared/images/local-community-context.webp']"
+    },
+    {
+      "name": "local/join/index.html high hero not lazy",
+      "passed": true,
+      "detail": "<img alt=\"\" decoding=\"async\" fetchpriority=\"high\" height=\"555\" sizes=\"(max-width: 680px) 320px, 425px\" src=\"/shared/images/local-community-context.webp\" srcset=\"/shared/images/local-community-context-320.webp 320w, /shared/images/local-community-context.webp 425w\" width=\"425\"/>"
+    },
+    {
+      "name": "shared/assets/home-420.webp mobile budget",
+      "passed": true,
+      "detail": "50320 <= 55000"
+    },
+    {
+      "name": "shared/assets/home-420.webp decodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/assets/auto-bundle-editorial-320.webp mobile budget",
+      "passed": true,
+      "detail": "45434 <= 55000"
+    },
+    {
+      "name": "shared/assets/auto-bundle-editorial-320.webp decodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/assets/buyer-editorial-context-420.webp mobile budget",
+      "passed": true,
+      "detail": "38696 <= 55000"
+    },
+    {
+      "name": "shared/assets/buyer-editorial-context-420.webp decodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/images/ui45-professional-healthcare-320.webp mobile budget",
+      "passed": true,
+      "detail": "10994 <= 40000"
+    },
+    {
+      "name": "shared/images/ui45-professional-healthcare-320.webp decodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/images/ui45-professional-teachers-320.webp mobile budget",
+      "passed": true,
+      "detail": "19452 <= 50000"
+    },
+    {
+      "name": "shared/images/ui45-professional-teachers-320.webp decodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/images/ui45-professional-tech-320.webp mobile budget",
+      "passed": true,
+      "detail": "10888 <= 40000"
+    },
+    {
+      "name": "shared/images/ui45-professional-tech-320.webp decodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/images/ui45-professional-engineers-320.webp mobile budget",
+      "passed": true,
+      "detail": "15676 <= 45000"
+    },
+    {
+      "name": "shared/images/ui45-professional-engineers-320.webp decodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/images/local-community-context-320.webp mobile budget",
+      "passed": true,
+      "detail": "19398 <= 40000"
+    },
+    {
+      "name": "shared/images/local-community-context-320.webp decodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html css+js source budget",
+      "passed": true,
+      "detail": "199540 <= 307200"
+    },
+    {
+      "name": "home/index.html css+js source budget",
+      "passed": true,
+      "detail": "330967 <= 337920"
+    },
+    {
+      "name": "auto-bundle/index.html css+js source budget",
+      "passed": true,
+      "detail": "269621 <= 307200"
+    },
+    {
+      "name": "buyer/index.html css+js source budget",
+      "passed": true,
+      "detail": "294768 <= 307200"
+    },
+    {
+      "name": "healthcare/index.html css+js source budget",
+      "passed": true,
+      "detail": "285037 <= 307200"
+    },
+    {
+      "name": "teachers/index.html css+js source budget",
+      "passed": true,
+      "detail": "285037 <= 307200"
+    },
+    {
+      "name": "tech/index.html css+js source budget",
+      "passed": true,
+      "detail": "285037 <= 307200"
+    },
+    {
+      "name": "engineers/index.html css+js source budget",
+      "passed": true,
+      "detail": "285037 <= 307200"
+    },
+    {
+      "name": "local/index.html css+js source budget",
+      "passed": true,
+      "detail": "254811 <= 307200"
+    },
+    {
+      "name": "local/join/index.html css+js source budget",
+      "passed": true,
+      "detail": "218896 <= 307200"
+    },
+    {
+      "name": "performance-budgets exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html protected form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html protected form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html protected form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html protected form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html protected form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html protected form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html protected form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html protected form exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_worker.js protected exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_routes.json protected exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_headers protected exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "_redirects protected exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/campaign-entry-registry.js protected exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "shared/config.js protected exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life-ops/index.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/index.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/thank-you.html life exact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/index.html 4.9 excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life/thank-you.html 4.9 excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "life-ops/index.html 4.9 excluded",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "sprint": "408-UI-4.9",
+  "name": "Accessibility + Performance Certification",
+  "status": "COMPLETE \u2014 BUILD-CERTIFIED",
+  "decision": "PASS WITH ONE DOCUMENTED HISTORICAL PERFORMANCE-BUDGET EXCEPTION",
+  "input_baseline": "408-UI-4.8 \u2014 Mobile + Responsive Editorial Pass",
+  "qa": {
+    "source_contract": {
+      "passed": 374,
+      "total": 374,
+      "file": "UI4_9_QA.json"
+    },
+    "accessibility_reflow_browser": {
+      "passed": 62,
+      "total": 62,
+      "file": "UI4_9_BROWSER_QA.json"
+    },
+    "responsive_asset_selection_browser": {
+      "passed": 31,
+      "total": 31,
+      "file": "UI4_9_PERFORMANCE_BROWSER_QA.json"
+    },
+    "ui4_8_source": {
+      "passed": 161,
+      "total": 161
+    },
+    "ui4_8_browser": {
+      "passed": 256,
+      "total": 256
+    },
+    "ui4_7_source": {
+      "passed": 142,
+      "total": 142
+    },
+    "ui4_7_browser": {
+      "passed": 110,
+      "total": 110
+    },
+    "cross_journey_e2e": {
+      "passed": 59,
+      "total": 59
+    },
+    "static": {
+      "passed": 296,
+      "total": 296
+    },
+    "links": {
+      "checked": 856,
+      "broken": 0
+    },
+    "javascript_syntax": {
+      "passed": 44,
+      "total": 44
+    },
+    "infra_function_boundary": {
+      "passed": 22,
+      "total": 22
+    },
+    "infra_exact_preservation": {
+      "passed": 4,
+      "total": 4
+    },
+    "home_routing": {
+      "passed": 16,
+      "total": 16
+    },
+    "home_hidden_required_submit": {
+      "passed": 12,
+      "total": 12
+    },
+    "local_attribution_worker": {
+      "passed": 29,
+      "total": 29
+    },
+    "historical_ui3_13_asset_performance": {
+      "passed": 98,
+      "total": 99,
+      "exception": "home/index.html uncompressed CSS+JS is 330967 bytes vs historical 307200-byte ceiling",
+      "current_ui4_9_ceiling_bytes": 337920
+    }
+  },
+  "performance_improvements": {
+    "auto_bundle_mobile_bytes": 45434,
+    "professional_mobile_candidates": 4,
+    "local_mobile_candidate_bytes": 19398,
+    "responsive_408farmers_logo_candidate_bytes": 15436,
+    "new_javascript_bytes": 0
+  },
+  "activation_boundary": "Deployed-domain Lighthouse/RUM, Safari/Firefox, and physical VoiceOver/NVDA/device checks remain post-deploy activation evidence."
+}

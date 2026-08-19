@@ -1,0 +1,165 @@
+{
+  "sprint": "408-UI-4.9",
+  "suite": "responsive_asset_selection_browser",
+  "total": 31,
+  "passed": 31,
+  "failed": 0,
+  "viewport": "390x844@1x",
+  "checks": [
+    {
+      "name": "index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/home-420.webp"
+    },
+    {
+      "name": "index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "home/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "home/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/home-420.webp"
+    },
+    {
+      "name": "home/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "auto-bundle/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "auto-bundle/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/auto-bundle-editorial-320.webp"
+    },
+    {
+      "name": "auto-bundle/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "buyer/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "buyer/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/buyer-editorial-context-420.webp"
+    },
+    {
+      "name": "buyer/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "healthcare/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "healthcare/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/ui45-professional-healthcare-320.webp"
+    },
+    {
+      "name": "healthcare/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "teachers/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "teachers/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/ui45-professional-teachers-320.webp"
+    },
+    {
+      "name": "teachers/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "tech/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "tech/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/ui45-professional-tech-320.webp"
+    },
+    {
+      "name": "tech/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "engineers/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "engineers/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/ui45-professional-engineers-320.webp"
+    },
+    {
+      "name": "engineers/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "local/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/local-community-context-320.webp"
+    },
+    {
+      "name": "local/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "local/join/index.html hero source exists",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "local/join/index.html browser mobile candidate",
+      "passed": true,
+      "detail": "https://asset.test/local-community-context-320.webp"
+    },
+    {
+      "name": "local/join/index.html source high priority",
+      "passed": true,
+      "detail": "high"
+    },
+    {
+      "name": "homepage header responsive logo",
+      "passed": true,
+      "detail": "https://asset.test/408-farmers-logo-506.webp"
+    }
+  ]
+}
